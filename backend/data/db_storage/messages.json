@@ -1,0 +1,2258 @@
+[
+  {
+    "message_id": "b1a7a921-e846-4319-9805-a7e2bfc62f58",
+    "conversation_id": "34d5de47-485b-4ce6-aaf2-bc551e27bdb0",
+    "user_id": null,
+    "role": "user",
+    "content": "What is the weather in Chennai today?",
+    "location_name": "Chennai",
+    "created_at": "2026-09-27T14:15:24.560963+00:00",
+    "_id": "1"
+  },
+  {
+    "message_id": "a620087d-9207-40ed-8759-72eecf5c38a2",
+    "conversation_id": "34d5de47-485b-4ce6-aaf2-bc551e27bdb0",
+    "user_id": null,
+    "role": "assistant",
+    "content": "\ud83c\udf24\ufe0f **Current Weather for Chennai**\n\n\u2022 **Temperature:** 30.5\u00b0C (Feels like: 36.4\u00b0C)\n\u2022 **Condition:** Clear sky\n\u2022 **Relative Humidity:** 71%\n\u2022 **Surface Wind:** 4.2 km/h\n\u2022 **Precipitation Probability:** 15%\n\n*Atmospheric observation retrieved at 2026-09-27 19:45 via Open-Meteo Meteorological WMO / ECMWF Feed.*",
+    "intent": "current_weather",
+    "location_name": "Chennai",
+    "data_sources": [
+      "Open-Meteo Meteorological WMO / ECMWF Feed"
+    ],
+    "created_at": "2026-09-27T14:15:24.560963+00:00",
+    "_id": "2"
+  },
+  {
+    "message_id": "06c5e2fe-07c8-4aff-b8d6-de00959c6e55",
+    "conversation_id": "db981c0e-65cd-4a70-8967-239aa20e5e34",
+    "user_id": null,
+    "role": "user",
+    "content": "Will it rain in Chennai tomorrow evening?",
+    "location_name": "Chennai",
+    "created_at": "2026-09-27T14:18:53.203327+00:00",
+    "_id": "3"
+  },
+  {
+    "message_id": "55e2c613-d9af-4d71-a36d-3a7c211e0457",
+    "conversation_id": "db981c0e-65cd-4a70-8967-239aa20e5e34",
+    "user_id": null,
+    "role": "assistant",
+    "content": "\ud83d\udcc5 **Forecast for Chennai (Tomorrow)**\n\n\u2022 **Precipitation Probability:** **79%** \u2014 Rain is **Likely**.\n\u2022 **Expected Precipitation:** 0.7 mm\n\u2022 **Sky Condition:** Light drizzle\n\u2022 **Temperature Range:** Min 26.7\u00b0C / Max 35.1\u00b0C\n\n\ud83d\udca1 *Forecast Lead Source: Open-Meteo High-Resolution Multi-Model Forecast.*",
+    "intent": "forecast",
+    "location_name": "Chennai",
+    "data_sources": [
+      "Open-Meteo Meteorological WMO / ECMWF Feed"
+    ],
+    "created_at": "2026-09-27T14:18:53.203327+00:00",
+    "_id": "4"
+  },
+  {
+    "message_id": "2c881bce-748d-4521-8653-13eea95c376f",
+    "conversation_id": "aacaf6bc-489e-4a6a-b1f1-3af1c2a9bdf4",
+    "user_id": null,
+    "role": "user",
+    "content": "Will it rain in Chennai tomorrow evening?",
+    "location_name": "Chennai",
+    "created_at": "2026-09-27T14:18:56.414028+00:00",
+    "_id": "5"
+  },
+  {
+    "message_id": "90940f16-e61e-465d-ac1e-e11e3e1bda11",
+    "conversation_id": "aacaf6bc-489e-4a6a-b1f1-3af1c2a9bdf4",
+    "user_id": null,
+    "role": "assistant",
+    "content": "\ud83d\udcc5 **Forecast for Chennai (Tomorrow)**\n\n\u2022 **Precipitation Probability:** **79%** \u2014 Rain is **Likely**.\n\u2022 **Expected Precipitation:** 0.7 mm\n\u2022 **Sky Condition:** Light drizzle\n\u2022 **Temperature Range:** Min 26.7\u00b0C / Max 35.1\u00b0C\n\n\ud83d\udca1 *Forecast Lead Source: Open-Meteo High-Resolution Multi-Model Forecast.*",
+    "intent": "forecast",
+    "location_name": "Chennai",
+    "data_sources": [
+      "Open-Meteo Meteorological WMO / ECMWF Feed"
+    ],
+    "created_at": "2026-09-27T14:18:56.414028+00:00",
+    "_id": "6"
+  },
+  {
+    "message_id": "d4e88a4d-06aa-4476-ae78-419157ee4dcb",
+    "conversation_id": "32c389a5-ffdd-43bd-a4a1-4bd25eceb778",
+    "user_id": null,
+    "role": "user",
+    "content": "Will it rain in Chennai tomorrow evening?",
+    "location_name": "Chennai",
+    "created_at": "2026-09-27T14:19:01.895282+00:00",
+    "_id": "7"
+  },
+  {
+    "message_id": "a4334ca1-9351-486c-a6ae-52c8e9f2afb9",
+    "conversation_id": "32c389a5-ffdd-43bd-a4a1-4bd25eceb778",
+    "user_id": null,
+    "role": "assistant",
+    "content": "\ud83d\udcc5 **Forecast for Chennai (Tomorrow)**\n\n\u2022 **Precipitation Probability:** **79%** \u2014 Rain is **Likely**.\n\u2022 **Expected Precipitation:** 0.7 mm\n\u2022 **Sky Condition:** Light drizzle\n\u2022 **Temperature Range:** Min 26.7\u00b0C / Max 35.1\u00b0C\n\n\ud83d\udca1 *Forecast Lead Source: Open-Meteo High-Resolution Multi-Model Forecast.*",
+    "intent": "forecast",
+    "location_name": "Chennai",
+    "data_sources": [
+      "Open-Meteo Meteorological WMO / ECMWF Feed"
+    ],
+    "created_at": "2026-09-27T14:19:01.895282+00:00",
+    "_id": "8"
+  },
+  {
+    "message_id": "749cc262-8a8f-489f-83bf-2e5ee515511a",
+    "conversation_id": "5255ab77-98b7-4d48-aaac-b591427d90b4",
+    "user_id": null,
+    "role": "user",
+    "content": "Will it rain in Chennai tomorrow evening?",
+    "location_name": "Chennai",
+    "created_at": "2026-09-27T14:19:07.814800+00:00",
+    "_id": "9"
+  },
+  {
+    "message_id": "9f9a9495-d4b1-4317-8266-41da74af361b",
+    "conversation_id": "5255ab77-98b7-4d48-aaac-b591427d90b4",
+    "user_id": null,
+    "role": "assistant",
+    "content": "\ud83d\udcc5 **Forecast for Chennai (Tomorrow)**\n\n\u2022 **Precipitation Probability:** **79%** \u2014 Rain is **Likely**.\n\u2022 **Expected Precipitation:** 0.7 mm\n\u2022 **Sky Condition:** Light drizzle\n\u2022 **Temperature Range:** Min 26.7\u00b0C / Max 35.1\u00b0C\n\n\ud83d\udca1 *Forecast Lead Source: Open-Meteo High-Resolution Multi-Model Forecast.*",
+    "intent": "forecast",
+    "location_name": "Chennai",
+    "data_sources": [
+      "Open-Meteo Meteorological WMO / ECMWF Feed"
+    ],
+    "created_at": "2026-09-27T14:19:07.814800+00:00",
+    "_id": "10"
+  },
+  {
+    "message_id": "0a5eba87-f52f-4410-b5a1-a4d25f291bb3",
+    "conversation_id": "922581ac-dc43-4d1e-9e66-d44aed2d562b",
+    "user_id": null,
+    "role": "user",
+    "content": "Will it rain in Chennai tomorrow evening?",
+    "location_name": "Chennai",
+    "created_at": "2026-09-27T14:19:16.089008+00:00",
+    "_id": "11"
+  },
+  {
+    "message_id": "33b29940-6bef-4864-8f3c-a55ab98209ca",
+    "conversation_id": "922581ac-dc43-4d1e-9e66-d44aed2d562b",
+    "user_id": null,
+    "role": "assistant",
+    "content": "\ud83d\udcc5 **Forecast for Chennai (Tomorrow)**\n\n\u2022 **Precipitation Probability:** **79%** \u2014 Rain is **Likely**.\n\u2022 **Expected Precipitation:** 0.7 mm\n\u2022 **Sky Condition:** Light drizzle\n\u2022 **Temperature Range:** Min 26.7\u00b0C / Max 35.1\u00b0C\n\n\ud83d\udca1 *Forecast Lead Source: Open-Meteo High-Resolution Multi-Model Forecast.*",
+    "intent": "forecast",
+    "location_name": "Chennai",
+    "data_sources": [
+      "Open-Meteo Meteorological WMO / ECMWF Feed"
+    ],
+    "created_at": "2026-09-27T14:19:16.089008+00:00",
+    "_id": "12"
+  },
+  {
+    "message_id": "abcc80ab-1d2d-4954-b4e7-7319cf5c0b5b",
+    "conversation_id": "c0715942-c96e-4a82-b97e-e36fc8dc8e68",
+    "user_id": null,
+    "role": "user",
+    "content": "Will it rain in Chennai tomorrow evening?",
+    "location_name": "Chennai",
+    "created_at": "2026-09-27T14:19:38.578674+00:00",
+    "_id": "13"
+  },
+  {
+    "message_id": "19b307ad-b518-4e1c-992e-cfce9ed0f98b",
+    "conversation_id": "c0715942-c96e-4a82-b97e-e36fc8dc8e68",
+    "user_id": null,
+    "role": "assistant",
+    "content": "\ud83d\udcc5 **Forecast for Chennai (Tomorrow)**\n\n\u2022 **Precipitation Probability:** **79%** \u2014 Rain is **Likely**.\n\u2022 **Expected Precipitation:** 0.7 mm\n\u2022 **Sky Condition:** Light drizzle\n\u2022 **Temperature Range:** Min 26.7\u00b0C / Max 35.1\u00b0C\n\n\ud83d\udca1 *Forecast Lead Source: Open-Meteo High-Resolution Multi-Model Forecast.*",
+    "intent": "forecast",
+    "location_name": "Chennai",
+    "data_sources": [
+      "Open-Meteo Meteorological WMO / ECMWF Feed"
+    ],
+    "created_at": "2026-09-27T14:19:38.578674+00:00",
+    "_id": "14"
+  },
+  {
+    "message_id": "f226f38f-a208-4e58-aef6-d2cbc0d581da",
+    "conversation_id": "fbd32bdf-b6d1-4445-aa63-c5acca5eca21",
+    "user_id": null,
+    "role": "user",
+    "content": "Will it rain in Chennai tomorrow evening?",
+    "location_name": "Chennai",
+    "created_at": "2026-09-27T14:19:40.137448+00:00",
+    "_id": "15"
+  },
+  {
+    "message_id": "29033737-2b10-4575-b1dd-0e00da8eb943",
+    "conversation_id": "fbd32bdf-b6d1-4445-aa63-c5acca5eca21",
+    "user_id": null,
+    "role": "assistant",
+    "content": "\ud83d\udcc5 **Forecast for Chennai (Tomorrow)**\n\n\u2022 **Precipitation Probability:** **79%** \u2014 Rain is **Likely**.\n\u2022 **Expected Precipitation:** 0.7 mm\n\u2022 **Sky Condition:** Light drizzle\n\u2022 **Temperature Range:** Min 26.7\u00b0C / Max 35.1\u00b0C\n\n\ud83d\udca1 *Forecast Lead Source: Open-Meteo High-Resolution Multi-Model Forecast.*",
+    "intent": "forecast",
+    "location_name": "Chennai",
+    "data_sources": [
+      "Open-Meteo Meteorological WMO / ECMWF Feed"
+    ],
+    "created_at": "2026-09-27T14:19:40.137448+00:00",
+    "_id": "16"
+  },
+  {
+    "message_id": "385e14fe-c7a3-466c-8e22-388d3022c3be",
+    "conversation_id": "e1b2889a-8c19-47d3-b9b9-fc9e3f1b6870",
+    "user_id": null,
+    "role": "user",
+    "content": "Will it rain in Chennai tomorrow evening?",
+    "location_name": "Chennai",
+    "created_at": "2026-09-27T14:24:33.067185+00:00",
+    "_id": "17"
+  },
+  {
+    "message_id": "3215379a-1f5a-44ea-9dc1-cbaed18454ce",
+    "conversation_id": "e1b2889a-8c19-47d3-b9b9-fc9e3f1b6870",
+    "user_id": null,
+    "role": "assistant",
+    "content": "\ud83d\udcc5 **Forecast for Chennai (Tomorrow)**\n\n\u2022 **Precipitation Probability:** **79%** \u2014 Rain is **Likely**.\n\u2022 **Expected Precipitation:** 0.7 mm\n\u2022 **Sky Condition:** Light drizzle\n\u2022 **Temperature Range:** Min 26.7\u00b0C / Max 35.1\u00b0C\n\n\ud83d\udca1 *Forecast Lead Source: Open-Meteo High-Resolution Multi-Model Forecast.*",
+    "intent": "forecast",
+    "location_name": "Chennai",
+    "data_sources": [
+      "Open-Meteo Meteorological WMO / ECMWF Feed"
+    ],
+    "created_at": "2026-09-27T14:24:33.067185+00:00",
+    "_id": "18"
+  },
+  {
+    "message_id": "7735178c-73a7-4a9f-a0a5-ee83896cbd9e",
+    "conversation_id": "a7293ebc-c257-4b33-8893-b1b9ac7ab927",
+    "user_id": null,
+    "role": "user",
+    "content": "Will it rain in Chennai tomorrow evening?",
+    "location_name": "Chennai",
+    "created_at": "2026-09-27T14:24:38.000467+00:00",
+    "_id": "19"
+  },
+  {
+    "message_id": "e15aa911-758a-4d49-999f-b0051079a547",
+    "conversation_id": "a7293ebc-c257-4b33-8893-b1b9ac7ab927",
+    "user_id": null,
+    "role": "assistant",
+    "content": "\ud83d\udcc5 **Forecast for Chennai (Tomorrow)**\n\n\u2022 **Precipitation Probability:** **79%** \u2014 Rain is **Likely**.\n\u2022 **Expected Precipitation:** 0.7 mm\n\u2022 **Sky Condition:** Light drizzle\n\u2022 **Temperature Range:** Min 26.7\u00b0C / Max 35.1\u00b0C\n\n\ud83d\udca1 *Forecast Lead Source: Open-Meteo High-Resolution Multi-Model Forecast.*",
+    "intent": "forecast",
+    "location_name": "Chennai",
+    "data_sources": [
+      "Open-Meteo Meteorological WMO / ECMWF Feed"
+    ],
+    "created_at": "2026-09-27T14:24:38.000467+00:00",
+    "_id": "20"
+  },
+  {
+    "message_id": "ef3c367e-8ad1-49ae-8f7e-9d836b49b6dd",
+    "conversation_id": "ab5d14c9-6d82-4b54-b1af-5d76556a3a87",
+    "user_id": null,
+    "role": "user",
+    "content": "Will it rain in Chennai tomorrow evening?",
+    "location_name": "Chennai",
+    "created_at": "2026-09-27T14:24:39.332542+00:00",
+    "_id": "21"
+  },
+  {
+    "message_id": "4aa5a4e5-4947-4b3b-a130-d20a8b7389c7",
+    "conversation_id": "ab5d14c9-6d82-4b54-b1af-5d76556a3a87",
+    "user_id": null,
+    "role": "assistant",
+    "content": "\ud83d\udcc5 **Forecast for Chennai (Tomorrow)**\n\n\u2022 **Precipitation Probability:** **79%** \u2014 Rain is **Likely**.\n\u2022 **Expected Precipitation:** 0.7 mm\n\u2022 **Sky Condition:** Light drizzle\n\u2022 **Temperature Range:** Min 26.7\u00b0C / Max 35.1\u00b0C\n\n\ud83d\udca1 *Forecast Lead Source: Open-Meteo High-Resolution Multi-Model Forecast.*",
+    "intent": "forecast",
+    "location_name": "Chennai",
+    "data_sources": [
+      "Open-Meteo Meteorological WMO / ECMWF Feed"
+    ],
+    "created_at": "2026-09-27T14:24:39.332542+00:00",
+    "_id": "22"
+  },
+  {
+    "message_id": "fd9c6560-fe10-4f10-839a-92aacc35f531",
+    "conversation_id": "21e5f20f-a18d-456d-a65b-80a2377025ba",
+    "user_id": null,
+    "role": "user",
+    "content": "Will it rain in Chennai tomorrow evening?",
+    "location_name": "Chennai",
+    "created_at": "2026-09-27T14:24:36.621396+00:00",
+    "_id": "23"
+  },
+  {
+    "message_id": "2c8018a3-a95f-4bb2-ba4c-0ef2763657fa",
+    "conversation_id": "21e5f20f-a18d-456d-a65b-80a2377025ba",
+    "user_id": null,
+    "role": "assistant",
+    "content": "\ud83d\udcc5 **Forecast for Chennai (Tomorrow)**\n\n\u2022 **Precipitation Probability:** **79%** \u2014 Rain is **Likely**.\n\u2022 **Expected Precipitation:** 0.7 mm\n\u2022 **Sky Condition:** Light drizzle\n\u2022 **Temperature Range:** Min 26.7\u00b0C / Max 35.1\u00b0C\n\n\ud83d\udca1 *Forecast Lead Source: Open-Meteo High-Resolution Multi-Model Forecast.*",
+    "intent": "forecast",
+    "location_name": "Chennai",
+    "data_sources": [
+      "Open-Meteo Meteorological WMO / ECMWF Feed"
+    ],
+    "created_at": "2026-09-27T14:24:36.621396+00:00",
+    "_id": "24"
+  },
+  {
+    "message_id": "a561b397-5474-4461-99f9-748834235971",
+    "conversation_id": "4b62b105-19ed-419a-88de-695cb264c4ea",
+    "user_id": null,
+    "role": "user",
+    "content": "Will it rain in Chennai tomorrow evening?",
+    "location_name": "Chennai",
+    "created_at": "2026-09-27T14:24:42.171075+00:00",
+    "_id": "25"
+  },
+  {
+    "message_id": "b3e649c7-9898-444b-986d-178297257519",
+    "conversation_id": "4b62b105-19ed-419a-88de-695cb264c4ea",
+    "user_id": null,
+    "role": "assistant",
+    "content": "\ud83d\udcc5 **Forecast for Chennai (Tomorrow)**\n\n\u2022 **Precipitation Probability:** **79%** \u2014 Rain is **Likely**.\n\u2022 **Expected Precipitation:** 0.7 mm\n\u2022 **Sky Condition:** Light drizzle\n\u2022 **Temperature Range:** Min 26.7\u00b0C / Max 35.1\u00b0C\n\n\ud83d\udca1 *Forecast Lead Source: Open-Meteo High-Resolution Multi-Model Forecast.*",
+    "intent": "forecast",
+    "location_name": "Chennai",
+    "data_sources": [
+      "Open-Meteo Meteorological WMO / ECMWF Feed"
+    ],
+    "created_at": "2026-09-27T14:24:42.171075+00:00",
+    "_id": "26"
+  },
+  {
+    "message_id": "01b9f4b5-4b69-4468-9a75-2bd9fce9b933",
+    "conversation_id": "e006f9fb-a00a-4664-b339-bfcea4b2fa26",
+    "user_id": null,
+    "role": "user",
+    "content": "Will it rain in Chennai tomorrow evening?",
+    "location_name": "Chennai",
+    "created_at": "2026-09-27T14:24:40.680022+00:00",
+    "_id": "27"
+  },
+  {
+    "message_id": "69bf5ee0-832c-4850-943e-16853387389a",
+    "conversation_id": "e006f9fb-a00a-4664-b339-bfcea4b2fa26",
+    "user_id": null,
+    "role": "assistant",
+    "content": "\ud83d\udcc5 **Forecast for Chennai (Tomorrow)**\n\n\u2022 **Precipitation Probability:** **79%** \u2014 Rain is **Likely**.\n\u2022 **Expected Precipitation:** 0.7 mm\n\u2022 **Sky Condition:** Light drizzle\n\u2022 **Temperature Range:** Min 26.7\u00b0C / Max 35.1\u00b0C\n\n\ud83d\udca1 *Forecast Lead Source: Open-Meteo High-Resolution Multi-Model Forecast.*",
+    "intent": "forecast",
+    "location_name": "Chennai",
+    "data_sources": [
+      "Open-Meteo Meteorological WMO / ECMWF Feed"
+    ],
+    "created_at": "2026-09-27T14:24:40.680022+00:00",
+    "_id": "28"
+  },
+  {
+    "message_id": "dd160a76-aa31-4094-93ad-6cbe2d3e24b4",
+    "conversation_id": "2ef972ba-d222-43e3-9bc6-3f337fd7189f",
+    "user_id": null,
+    "role": "user",
+    "content": "Will it rain in Chennai tomorrow evening?",
+    "location_name": "Chennai",
+    "created_at": "2026-09-27T14:35:40.952944+00:00",
+    "_id": "29"
+  },
+  {
+    "message_id": "b67b7aca-c573-4c0c-9f4b-dc649fd11653",
+    "conversation_id": "2ef972ba-d222-43e3-9bc6-3f337fd7189f",
+    "user_id": null,
+    "role": "assistant",
+    "content": "\ud83d\udcc5 **Forecast for Chennai (Tomorrow)**\n\n\u2022 **Precipitation Probability:** **79%** \u2014 Rain is **Likely**.\n\u2022 **Expected Precipitation:** 0.7 mm\n\u2022 **Sky Condition:** Light drizzle\n\u2022 **Temperature Range:** Min 26.7\u00b0C / Max 35.1\u00b0C\n\n\ud83d\udca1 *Forecast Lead Source: Open-Meteo High-Resolution Multi-Model Forecast.*",
+    "intent": "forecast",
+    "location_name": "Chennai",
+    "data_sources": [
+      "Open-Meteo Meteorological WMO / ECMWF Feed"
+    ],
+    "created_at": "2026-09-27T14:35:40.952944+00:00",
+    "_id": "30"
+  },
+  {
+    "message_id": "f9be63e7-8876-49f7-9c45-aab09d1e4573",
+    "conversation_id": "97313212-e267-4948-b45f-55a2ff5f383b",
+    "user_id": null,
+    "role": "user",
+    "content": "Will it rain in Chennai tomorrow evening?",
+    "location_name": "Chennai",
+    "created_at": "2026-09-27T14:50:14.233977+00:00",
+    "_id": "31"
+  },
+  {
+    "message_id": "7415b489-ad89-42e1-9bc9-9b7db151d4b8",
+    "conversation_id": "97313212-e267-4948-b45f-55a2ff5f383b",
+    "user_id": null,
+    "role": "assistant",
+    "content": "\ud83d\udcc5 **Forecast for Chennai (Tomorrow)**\n\n\u2022 **Precipitation Probability:** **79%** \u2014 Rain is **Likely**.\n\u2022 **Expected Precipitation:** 0.7 mm\n\u2022 **Sky Condition:** Light drizzle\n\u2022 **Temperature Range:** Min 26.7\u00b0C / Max 35.1\u00b0C\n\n\ud83d\udca1 *Forecast Lead Source: Open-Meteo High-Resolution Multi-Model Forecast.*",
+    "intent": "forecast",
+    "location_name": "Chennai",
+    "data_sources": [
+      "Open-Meteo Meteorological WMO / ECMWF Feed"
+    ],
+    "created_at": "2026-09-27T14:50:14.233977+00:00",
+    "_id": "32"
+  },
+  {
+    "message_id": "6da0f542-dce5-4f35-8bf7-3e2bdb0fa7ab",
+    "conversation_id": "fccb2922-4cdb-4aac-9e69-43c154df623b",
+    "user_id": null,
+    "role": "user",
+    "content": "Will it rain in Chennai tomorrow evening?",
+    "location_name": "Chennai",
+    "created_at": "2026-09-27T14:50:15.812712+00:00",
+    "_id": "33"
+  },
+  {
+    "message_id": "4f45cdd6-c1e4-45b6-86c7-c7543e3badff",
+    "conversation_id": "fccb2922-4cdb-4aac-9e69-43c154df623b",
+    "user_id": null,
+    "role": "assistant",
+    "content": "\ud83d\udcc5 **Forecast for Chennai (Tomorrow)**\n\n\u2022 **Precipitation Probability:** **79%** \u2014 Rain is **Likely**.\n\u2022 **Expected Precipitation:** 0.7 mm\n\u2022 **Sky Condition:** Light drizzle\n\u2022 **Temperature Range:** Min 26.7\u00b0C / Max 35.1\u00b0C\n\n\ud83d\udca1 *Forecast Lead Source: Open-Meteo High-Resolution Multi-Model Forecast.*",
+    "intent": "forecast",
+    "location_name": "Chennai",
+    "data_sources": [
+      "Open-Meteo Meteorological WMO / ECMWF Feed"
+    ],
+    "created_at": "2026-09-27T14:50:15.812712+00:00",
+    "_id": "34"
+  },
+  {
+    "message_id": "c290c596-d3e2-49cf-ae42-4ba9872b159b",
+    "conversation_id": "6b3d144e-14f7-4fdc-9e06-166aa33c319e",
+    "user_id": null,
+    "role": "user",
+    "content": "Will it rain in Chennai tomorrow evening?",
+    "location_name": "Chennai",
+    "created_at": "2026-09-27T14:50:21.932781+00:00",
+    "_id": "35"
+  },
+  {
+    "message_id": "5a896263-6ac5-40ea-9cda-240e3fa91b50",
+    "conversation_id": "6b3d144e-14f7-4fdc-9e06-166aa33c319e",
+    "user_id": null,
+    "role": "assistant",
+    "content": "\ud83d\udcc5 **Forecast for Chennai (Tomorrow)**\n\n\u2022 **Precipitation Probability:** **79%** \u2014 Rain is **Likely**.\n\u2022 **Expected Precipitation:** 0.7 mm\n\u2022 **Sky Condition:** Light drizzle\n\u2022 **Temperature Range:** Min 26.7\u00b0C / Max 35.1\u00b0C\n\n\ud83d\udca1 *Forecast Lead Source: Open-Meteo High-Resolution Multi-Model Forecast.*",
+    "intent": "forecast",
+    "location_name": "Chennai",
+    "data_sources": [
+      "Open-Meteo Meteorological WMO / ECMWF Feed"
+    ],
+    "created_at": "2026-09-27T14:50:21.932781+00:00",
+    "_id": "36"
+  },
+  {
+    "message_id": "abf09a6c-f54a-49ac-8337-d20c37710d2a",
+    "conversation_id": "f07d2de4-3309-402d-981d-97de9ea3ca91",
+    "user_id": null,
+    "role": "user",
+    "content": "Will it rain in Chennai tomorrow evening?",
+    "location_name": "Chennai",
+    "created_at": "2026-09-27T14:50:38.926711+00:00",
+    "_id": "37"
+  },
+  {
+    "message_id": "b222de65-f196-4d27-b8d1-a590e2e1cae9",
+    "conversation_id": "f07d2de4-3309-402d-981d-97de9ea3ca91",
+    "user_id": null,
+    "role": "assistant",
+    "content": "\ud83d\udcc5 **Forecast for Chennai (Tomorrow)**\n\n\u2022 **Precipitation Probability:** **79%** \u2014 Rain is **Likely**.\n\u2022 **Expected Precipitation:** 0.7 mm\n\u2022 **Sky Condition:** Light drizzle\n\u2022 **Temperature Range:** Min 26.7\u00b0C / Max 35.1\u00b0C\n\n\ud83d\udca1 *Forecast Lead Source: Open-Meteo High-Resolution Multi-Model Forecast.*",
+    "intent": "forecast",
+    "location_name": "Chennai",
+    "data_sources": [
+      "Open-Meteo Meteorological WMO / ECMWF Feed"
+    ],
+    "created_at": "2026-09-27T14:50:38.926711+00:00",
+    "_id": "38"
+  },
+  {
+    "message_id": "7ef25d2e-e11a-4d61-a0ba-dbecf7d20d5f",
+    "conversation_id": "8dcb7e71-be51-4ccb-8973-ed2cc356af99",
+    "user_id": null,
+    "role": "user",
+    "content": "Will it rain in Chennai tomorrow evening?",
+    "location_name": "Chennai",
+    "created_at": "2026-09-27T14:50:40.407555+00:00",
+    "_id": "39"
+  },
+  {
+    "message_id": "89da4f32-5c52-42f4-8fb1-2fa614942cd3",
+    "conversation_id": "8dcb7e71-be51-4ccb-8973-ed2cc356af99",
+    "user_id": null,
+    "role": "assistant",
+    "content": "\ud83d\udcc5 **Forecast for Chennai (Tomorrow)**\n\n\u2022 **Precipitation Probability:** **79%** \u2014 Rain is **Likely**.\n\u2022 **Expected Precipitation:** 0.7 mm\n\u2022 **Sky Condition:** Light drizzle\n\u2022 **Temperature Range:** Min 26.7\u00b0C / Max 35.1\u00b0C\n\n\ud83d\udca1 *Forecast Lead Source: Open-Meteo High-Resolution Multi-Model Forecast.*",
+    "intent": "forecast",
+    "location_name": "Chennai",
+    "data_sources": [
+      "Open-Meteo Meteorological WMO / ECMWF Feed"
+    ],
+    "created_at": "2026-09-27T14:50:40.407555+00:00",
+    "_id": "40"
+  },
+  {
+    "message_id": "1cb82e00-5b29-4630-84ed-214b78509f8e",
+    "conversation_id": "ae888c4e-2f8a-4702-8851-76eaf735b8b9",
+    "user_id": null,
+    "role": "user",
+    "content": "Will it rain in Chennai tomorrow evening?",
+    "location_name": "Chennai",
+    "created_at": "2026-09-27T14:50:53.706187+00:00",
+    "_id": "41"
+  },
+  {
+    "message_id": "2d588b55-c3bc-41a7-ac75-6347a52169ab",
+    "conversation_id": "ae888c4e-2f8a-4702-8851-76eaf735b8b9",
+    "user_id": null,
+    "role": "assistant",
+    "content": "\ud83d\udcc5 **Forecast for Chennai (Tomorrow)**\n\n\u2022 **Precipitation Probability:** **79%** \u2014 Rain is **Likely**.\n\u2022 **Expected Precipitation:** 0.7 mm\n\u2022 **Sky Condition:** Light drizzle\n\u2022 **Temperature Range:** Min 26.7\u00b0C / Max 35.1\u00b0C\n\n\ud83d\udca1 *Forecast Lead Source: Open-Meteo High-Resolution Multi-Model Forecast.*",
+    "intent": "forecast",
+    "location_name": "Chennai",
+    "data_sources": [
+      "Open-Meteo Meteorological WMO / ECMWF Feed"
+    ],
+    "created_at": "2026-09-27T14:50:53.706187+00:00",
+    "_id": "42"
+  },
+  {
+    "message_id": "3c2c69c1-8ccf-45f2-b0fd-75ef1407fa96",
+    "conversation_id": "797c931a-9c8e-421f-a1a6-9e78a3184cd4",
+    "user_id": null,
+    "role": "user",
+    "content": "Will it rain in Chennai tomorrow evening?",
+    "location_name": "Chennai",
+    "created_at": "2026-09-27T14:50:54.871516+00:00",
+    "_id": "43"
+  },
+  {
+    "message_id": "f7e3038d-c820-4b1d-800d-b1b9685bfd78",
+    "conversation_id": "797c931a-9c8e-421f-a1a6-9e78a3184cd4",
+    "user_id": null,
+    "role": "assistant",
+    "content": "\ud83d\udcc5 **Forecast for Chennai (Tomorrow)**\n\n\u2022 **Precipitation Probability:** **79%** \u2014 Rain is **Likely**.\n\u2022 **Expected Precipitation:** 0.7 mm\n\u2022 **Sky Condition:** Light drizzle\n\u2022 **Temperature Range:** Min 26.7\u00b0C / Max 35.1\u00b0C\n\n\ud83d\udca1 *Forecast Lead Source: Open-Meteo High-Resolution Multi-Model Forecast.*",
+    "intent": "forecast",
+    "location_name": "Chennai",
+    "data_sources": [
+      "Open-Meteo Meteorological WMO / ECMWF Feed"
+    ],
+    "created_at": "2026-09-27T14:50:54.871516+00:00",
+    "_id": "44"
+  },
+  {
+    "message_id": "5ce04968-9339-4947-b096-718beba2327d",
+    "conversation_id": "d67662da-b89f-46e1-bd34-66777d15c1ad",
+    "user_id": null,
+    "role": "user",
+    "content": "Will it rain in Chennai tomorrow evening?",
+    "location_name": "Chennai",
+    "created_at": "2026-09-27T14:50:57.771446+00:00",
+    "_id": "45"
+  },
+  {
+    "message_id": "9c88a3e2-e73e-4d4e-a5ec-8e9498b64f4b",
+    "conversation_id": "d67662da-b89f-46e1-bd34-66777d15c1ad",
+    "user_id": null,
+    "role": "assistant",
+    "content": "\ud83d\udcc5 **Forecast for Chennai (Tomorrow)**\n\n\u2022 **Precipitation Probability:** **79%** \u2014 Rain is **Likely**.\n\u2022 **Expected Precipitation:** 0.7 mm\n\u2022 **Sky Condition:** Light drizzle\n\u2022 **Temperature Range:** Min 26.7\u00b0C / Max 35.1\u00b0C\n\n\ud83d\udca1 *Forecast Lead Source: Open-Meteo High-Resolution Multi-Model Forecast.*",
+    "intent": "forecast",
+    "location_name": "Chennai",
+    "data_sources": [
+      "Open-Meteo Meteorological WMO / ECMWF Feed"
+    ],
+    "created_at": "2026-09-27T14:50:57.771446+00:00",
+    "_id": "46"
+  },
+  {
+    "message_id": "ec84f7de-f9ad-4b34-928e-c5d69b939a87",
+    "conversation_id": "1b0293b2-7964-41e1-b451-e9c3c0ba6419",
+    "user_id": null,
+    "role": "user",
+    "content": "Will it rain in Chennai tomorrow evening?",
+    "location_name": "Chennai",
+    "created_at": "2026-09-27T14:51:05.084277+00:00",
+    "_id": "47"
+  },
+  {
+    "message_id": "e41afc9b-8c21-42dd-a97f-e155b0f801d6",
+    "conversation_id": "1b0293b2-7964-41e1-b451-e9c3c0ba6419",
+    "user_id": null,
+    "role": "assistant",
+    "content": "\ud83d\udcc5 **Forecast for Chennai (Tomorrow)**\n\n\u2022 **Precipitation Probability:** **79%** \u2014 Rain is **Likely**.\n\u2022 **Expected Precipitation:** 0.7 mm\n\u2022 **Sky Condition:** Light drizzle\n\u2022 **Temperature Range:** Min 26.7\u00b0C / Max 35.1\u00b0C\n\n\ud83d\udca1 *Forecast Lead Source: Open-Meteo High-Resolution Multi-Model Forecast.*",
+    "intent": "forecast",
+    "location_name": "Chennai",
+    "data_sources": [
+      "Open-Meteo Meteorological WMO / ECMWF Feed"
+    ],
+    "created_at": "2026-09-27T14:51:05.084277+00:00",
+    "_id": "48"
+  },
+  {
+    "message_id": "6ea445a1-3e52-456c-b1cd-cb58093b4bcb",
+    "conversation_id": "778ee008-f139-4658-86ec-9cdecba84ed1",
+    "user_id": null,
+    "role": "user",
+    "content": "Will it rain in Chennai tomorrow evening?",
+    "location_name": "Chennai",
+    "created_at": "2026-09-27T14:51:20.638648+00:00",
+    "_id": "49"
+  },
+  {
+    "message_id": "efc4b846-0fd7-4432-917d-eb10142334a3",
+    "conversation_id": "778ee008-f139-4658-86ec-9cdecba84ed1",
+    "user_id": null,
+    "role": "assistant",
+    "content": "\ud83d\udcc5 **Forecast for Chennai (Tomorrow)**\n\n\u2022 **Precipitation Probability:** **79%** \u2014 Rain is **Likely**.\n\u2022 **Expected Precipitation:** 0.7 mm\n\u2022 **Sky Condition:** Light drizzle\n\u2022 **Temperature Range:** Min 26.7\u00b0C / Max 35.1\u00b0C\n\n\ud83d\udca1 *Forecast Lead Source: Open-Meteo High-Resolution Multi-Model Forecast.*",
+    "intent": "forecast",
+    "location_name": "Chennai",
+    "data_sources": [
+      "Open-Meteo Meteorological WMO / ECMWF Feed"
+    ],
+    "created_at": "2026-09-27T14:51:20.638648+00:00",
+    "_id": "50"
+  },
+  {
+    "message_id": "e4d014b0-23f7-4798-ab0a-ca419ae0e219",
+    "conversation_id": "5e21bce2-9606-42a6-8071-54c3a292c5e7",
+    "user_id": null,
+    "role": "user",
+    "content": "Will it rain in Chennai tomorrow evening?",
+    "location_name": "Chennai",
+    "created_at": "2026-09-27T14:51:19.264779+00:00",
+    "_id": "51"
+  },
+  {
+    "message_id": "b6196c4b-afb4-434c-acfc-a500453e459d",
+    "conversation_id": "5e21bce2-9606-42a6-8071-54c3a292c5e7",
+    "user_id": null,
+    "role": "assistant",
+    "content": "\ud83d\udcc5 **Forecast for Chennai (Tomorrow)**\n\n\u2022 **Precipitation Probability:** **79%** \u2014 Rain is **Likely**.\n\u2022 **Expected Precipitation:** 0.7 mm\n\u2022 **Sky Condition:** Light drizzle\n\u2022 **Temperature Range:** Min 26.7\u00b0C / Max 35.1\u00b0C\n\n\ud83d\udca1 *Forecast Lead Source: Open-Meteo High-Resolution Multi-Model Forecast.*",
+    "intent": "forecast",
+    "location_name": "Chennai",
+    "data_sources": [
+      "Open-Meteo Meteorological WMO / ECMWF Feed"
+    ],
+    "created_at": "2026-09-27T14:51:19.264779+00:00",
+    "_id": "52"
+  },
+  {
+    "message_id": "f4cc3548-e954-4534-9734-64cdd643df00",
+    "conversation_id": "aec70cbc-1525-4cb2-97f6-45ac5c6408fe",
+    "user_id": null,
+    "role": "user",
+    "content": "What is the temperature in Mumbai?",
+    "location_name": "Mumbai",
+    "created_at": "2026-09-27T14:51:38.200466+00:00",
+    "_id": "53"
+  },
+  {
+    "message_id": "bbf89fde-f08d-4780-99db-3b9391aec41b",
+    "conversation_id": "aec70cbc-1525-4cb2-97f6-45ac5c6408fe",
+    "user_id": null,
+    "role": "assistant",
+    "content": "\ud83c\udf24\ufe0f **Current Weather for Mumbai**\n\n\u2022 **Temperature:** 28.4\u00b0C (Feels like: 33.3\u00b0C)\n\u2022 **Condition:** Clear sky\n\u2022 **Relative Humidity:** 73%\n\u2022 **Surface Wind:** 4.0 km/h\n\u2022 **Precipitation Probability:** 15%\n\n*Atmospheric observation retrieved at 2026-09-27 20:15 via Open-Meteo Meteorological WMO / ECMWF Feed.*",
+    "intent": "temperature",
+    "location_name": "Mumbai",
+    "data_sources": [
+      "Open-Meteo Meteorological WMO / ECMWF Feed"
+    ],
+    "created_at": "2026-09-27T14:51:38.200466+00:00",
+    "_id": "54"
+  },
+  {
+    "message_id": "1c0db0ef-a8dd-4f46-8768-d0033ff5e6bd",
+    "conversation_id": "400e782a-3a37-44ec-a5b6-60d69024041f",
+    "user_id": null,
+    "role": "user",
+    "content": "What is the temperature in Mumbai?",
+    "location_name": "Mumbai",
+    "created_at": "2026-09-27T14:51:37.026774+00:00",
+    "_id": "55"
+  },
+  {
+    "message_id": "3dd464e8-ca52-4969-96d0-d0beefd05212",
+    "conversation_id": "400e782a-3a37-44ec-a5b6-60d69024041f",
+    "user_id": null,
+    "role": "assistant",
+    "content": "\ud83c\udf24\ufe0f **Current Weather for Mumbai**\n\n\u2022 **Temperature:** 28.4\u00b0C (Feels like: 33.3\u00b0C)\n\u2022 **Condition:** Clear sky\n\u2022 **Relative Humidity:** 73%\n\u2022 **Surface Wind:** 4.0 km/h\n\u2022 **Precipitation Probability:** 15%\n\n*Atmospheric observation retrieved at 2026-09-27 20:15 via Open-Meteo Meteorological WMO / ECMWF Feed.*",
+    "intent": "temperature",
+    "location_name": "Mumbai",
+    "data_sources": [
+      "Open-Meteo Meteorological WMO / ECMWF Feed"
+    ],
+    "created_at": "2026-09-27T14:51:37.026774+00:00",
+    "_id": "56"
+  },
+  {
+    "message_id": "cdbffa4c-dde7-4004-907f-56fabda192b5",
+    "conversation_id": "7f846b57-70a3-480d-9194-2115bd6e13ea",
+    "user_id": null,
+    "role": "user",
+    "content": "What is the temperature in Mumbai?",
+    "location_name": "Mumbai",
+    "created_at": "2026-09-27T14:51:50.344153+00:00",
+    "_id": "57"
+  },
+  {
+    "message_id": "767a50b8-89d1-4d1e-899b-55319f29cc65",
+    "conversation_id": "7f846b57-70a3-480d-9194-2115bd6e13ea",
+    "user_id": null,
+    "role": "assistant",
+    "content": "\ud83c\udf24\ufe0f **Current Weather for Mumbai**\n\n\u2022 **Temperature:** 28.4\u00b0C (Feels like: 33.3\u00b0C)\n\u2022 **Condition:** Clear sky\n\u2022 **Relative Humidity:** 73%\n\u2022 **Surface Wind:** 4.0 km/h\n\u2022 **Precipitation Probability:** 15%\n\n*Atmospheric observation retrieved at 2026-09-27 20:15 via Open-Meteo Meteorological WMO / ECMWF Feed.*",
+    "intent": "temperature",
+    "location_name": "Mumbai",
+    "data_sources": [
+      "Open-Meteo Meteorological WMO / ECMWF Feed"
+    ],
+    "created_at": "2026-09-27T14:51:50.344153+00:00",
+    "_id": "58"
+  },
+  {
+    "message_id": "40abb1fd-47b7-437e-b894-c54dc2eac11b",
+    "conversation_id": "a585145f-277e-4f61-8612-abe31f6db7d2",
+    "user_id": null,
+    "role": "user",
+    "content": "What is the temperature in Mumbai?",
+    "location_name": "Mumbai",
+    "created_at": "2026-09-27T14:51:48.922309+00:00",
+    "_id": "59"
+  },
+  {
+    "message_id": "7b99876b-602b-4cb7-b448-035389b2deea",
+    "conversation_id": "a585145f-277e-4f61-8612-abe31f6db7d2",
+    "user_id": null,
+    "role": "assistant",
+    "content": "\ud83c\udf24\ufe0f **Current Weather for Mumbai**\n\n\u2022 **Temperature:** 28.4\u00b0C (Feels like: 33.3\u00b0C)\n\u2022 **Condition:** Clear sky\n\u2022 **Relative Humidity:** 73%\n\u2022 **Surface Wind:** 4.0 km/h\n\u2022 **Precipitation Probability:** 15%\n\n*Atmospheric observation retrieved at 2026-09-27 20:15 via Open-Meteo Meteorological WMO / ECMWF Feed.*",
+    "intent": "temperature",
+    "location_name": "Mumbai",
+    "data_sources": [
+      "Open-Meteo Meteorological WMO / ECMWF Feed"
+    ],
+    "created_at": "2026-09-27T14:51:48.922309+00:00",
+    "_id": "60"
+  },
+  {
+    "message_id": "a9e2c5fd-3e5a-4c60-992e-cd4d430a311a",
+    "conversation_id": "d3168d96-8a76-4b77-9453-d2f2483eef7a",
+    "user_id": null,
+    "role": "user",
+    "content": "What is the temperature in Mumbai?",
+    "location_name": "Mumbai",
+    "created_at": "2026-09-27T14:52:04.684548+00:00",
+    "_id": "61"
+  },
+  {
+    "message_id": "9ad740c2-f6ce-4996-8816-f1e82535625f",
+    "conversation_id": "d3168d96-8a76-4b77-9453-d2f2483eef7a",
+    "user_id": null,
+    "role": "assistant",
+    "content": "\ud83c\udf24\ufe0f **Current Weather for Mumbai**\n\n\u2022 **Temperature:** 28.4\u00b0C (Feels like: 33.3\u00b0C)\n\u2022 **Condition:** Clear sky\n\u2022 **Relative Humidity:** 73%\n\u2022 **Surface Wind:** 4.0 km/h\n\u2022 **Precipitation Probability:** 15%\n\n*Atmospheric observation retrieved at 2026-09-27 20:15 via Open-Meteo Meteorological WMO / ECMWF Feed.*",
+    "intent": "temperature",
+    "location_name": "Mumbai",
+    "data_sources": [
+      "Open-Meteo Meteorological WMO / ECMWF Feed"
+    ],
+    "created_at": "2026-09-27T14:52:04.684548+00:00",
+    "_id": "62"
+  },
+  {
+    "message_id": "15f5aa05-e398-4172-a87a-423c2ab1c7ec",
+    "conversation_id": "3bdcc3e0-1f35-418b-87f5-2cf1100c2ba2",
+    "user_id": null,
+    "role": "user",
+    "content": "Will it rain in Chennai tomorrow evening?",
+    "location_name": "Chennai",
+    "created_at": "2026-09-27T15:00:18.524616+00:00",
+    "_id": "63"
+  },
+  {
+    "message_id": "d71d8e00-8797-4243-a559-bc04aadf0cd6",
+    "conversation_id": "3bdcc3e0-1f35-418b-87f5-2cf1100c2ba2",
+    "user_id": null,
+    "role": "assistant",
+    "content": "\ud83d\udcc5 **Forecast for Chennai (Tomorrow)**\n\n\u2022 **Precipitation Probability:** **79%** \u2014 Rain is **Likely**.\n\u2022 **Expected Precipitation:** 0.7 mm\n\u2022 **Sky Condition:** Light drizzle\n\u2022 **Temperature Range:** Min 26.7\u00b0C / Max 35.1\u00b0C\n\n\ud83d\udca1 *Forecast Lead Source: Open-Meteo High-Resolution Multi-Model Forecast.*",
+    "intent": "forecast",
+    "location_name": "Chennai",
+    "data_sources": [
+      "Open-Meteo Meteorological WMO / ECMWF Feed"
+    ],
+    "created_at": "2026-09-27T15:00:18.524616+00:00",
+    "_id": "64"
+  },
+  {
+    "message_id": "cf0ed714-68c7-4e51-9f99-6659da50296c",
+    "conversation_id": "d0ca5955-99dc-442a-ade6-3c620864f881",
+    "user_id": null,
+    "role": "user",
+    "content": "Will it rain in Chennai tomorrow evening?",
+    "location_name": "Chennai",
+    "created_at": "2026-09-27T15:00:25.456552+00:00",
+    "_id": "65"
+  },
+  {
+    "message_id": "d25124c4-ec2b-4839-a068-37edcc09f960",
+    "conversation_id": "d0ca5955-99dc-442a-ade6-3c620864f881",
+    "user_id": null,
+    "role": "assistant",
+    "content": "\ud83d\udcc5 **Forecast for Chennai (Tomorrow)**\n\n\u2022 **Precipitation Probability:** **79%** \u2014 Rain is **Likely**.\n\u2022 **Expected Precipitation:** 0.7 mm\n\u2022 **Sky Condition:** Light drizzle\n\u2022 **Temperature Range:** Min 26.7\u00b0C / Max 35.1\u00b0C\n\n\ud83d\udca1 *Forecast Lead Source: Open-Meteo High-Resolution Multi-Model Forecast.*",
+    "intent": "forecast",
+    "location_name": "Chennai",
+    "data_sources": [
+      "Open-Meteo Meteorological WMO / ECMWF Feed"
+    ],
+    "created_at": "2026-09-27T15:00:25.456552+00:00",
+    "_id": "66"
+  },
+  {
+    "message_id": "79b21c97-80d4-45eb-bf6b-1cb1adba23ec",
+    "conversation_id": "88145db0-3d32-4d4c-85f6-4bfbbcca5c9f",
+    "user_id": null,
+    "role": "user",
+    "content": "Will it rain in Chennai tomorrow evening?",
+    "location_name": "Chennai",
+    "created_at": "2026-09-27T15:00:24.907747+00:00",
+    "_id": "67"
+  },
+  {
+    "message_id": "055acf12-ee01-4c9d-9311-c72b4cda89a2",
+    "conversation_id": "88145db0-3d32-4d4c-85f6-4bfbbcca5c9f",
+    "user_id": null,
+    "role": "assistant",
+    "content": "\ud83d\udcc5 **Forecast for Chennai (Tomorrow)**\n\n\u2022 **Precipitation Probability:** **79%** \u2014 Rain is **Likely**.\n\u2022 **Expected Precipitation:** 0.7 mm\n\u2022 **Sky Condition:** Light drizzle\n\u2022 **Temperature Range:** Min 26.7\u00b0C / Max 35.1\u00b0C\n\n\ud83d\udca1 *Forecast Lead Source: Open-Meteo High-Resolution Multi-Model Forecast.*",
+    "intent": "forecast",
+    "location_name": "Chennai",
+    "data_sources": [
+      "Open-Meteo Meteorological WMO / ECMWF Feed"
+    ],
+    "created_at": "2026-09-27T15:00:24.907747+00:00",
+    "_id": "68"
+  },
+  {
+    "message_id": "c97a000c-410c-4070-805e-9a4fd2690d4c",
+    "conversation_id": "dd52fc71-1bde-49b1-8769-8a1f713c4bd6",
+    "user_id": null,
+    "role": "user",
+    "content": "Will it rain in Chennai tomorrow evening?",
+    "location_name": "Chennai",
+    "created_at": "2026-09-27T15:01:04.591706+00:00",
+    "_id": "69"
+  },
+  {
+    "message_id": "6d650f8b-7731-444c-92dc-06604f239dee",
+    "conversation_id": "dd52fc71-1bde-49b1-8769-8a1f713c4bd6",
+    "user_id": null,
+    "role": "assistant",
+    "content": "\ud83d\udcc5 **Forecast for Chennai (Tomorrow)**\n\n\u2022 **Precipitation Probability:** **79%** \u2014 Rain is **Likely**.\n\u2022 **Expected Precipitation:** 0.7 mm\n\u2022 **Sky Condition:** Light drizzle\n\u2022 **Temperature Range:** Min 26.7\u00b0C / Max 35.1\u00b0C\n\n\ud83d\udca1 *Forecast Lead Source: Open-Meteo High-Resolution Multi-Model Forecast.*",
+    "intent": "forecast",
+    "location_name": "Chennai",
+    "data_sources": [
+      "Open-Meteo Meteorological WMO / ECMWF Feed"
+    ],
+    "created_at": "2026-09-27T15:01:04.591706+00:00",
+    "_id": "70"
+  },
+  {
+    "message_id": "db6c799a-45c3-4b3e-88ed-17197b19d6cc",
+    "conversation_id": "9f21cdf9-36b3-4e5e-b6b1-f85dfc5be42b",
+    "user_id": null,
+    "role": "user",
+    "content": "Will it rain in Chennai tomorrow evening?",
+    "location_name": "Chennai",
+    "created_at": "2026-09-27T15:02:54.769677+00:00",
+    "_id": "71"
+  },
+  {
+    "message_id": "492e0421-0c7f-42fe-b839-f7f220f3da0c",
+    "conversation_id": "9f21cdf9-36b3-4e5e-b6b1-f85dfc5be42b",
+    "user_id": null,
+    "role": "assistant",
+    "content": "Forecast for Chennai (Tomorrow). Precipitation Probability: 79%. Rain is Likely. Expected Precipitation: 0.7 mm. Sky Condition: Light drizzle. Temperature Range: Min 26.7\u00b0C / Max 35.1\u00b0C. Forecast Lead Source: Open-Meteo High-Resolution Multi-Model Forecast.",
+    "intent": "forecast",
+    "location_name": "Chennai",
+    "data_sources": [
+      "Open-Meteo Meteorological WMO / ECMWF Feed"
+    ],
+    "created_at": "2026-09-27T15:02:54.769677+00:00",
+    "_id": "72"
+  },
+  {
+    "message_id": "06f5c7a6-43c4-4dad-901f-12e5f1b24a24",
+    "conversation_id": "8b9d8a96-a676-48f4-9bd3-9ab46e3ce045",
+    "user_id": null,
+    "role": "user",
+    "content": "Will it rain in Chennai tomorrow evening?",
+    "location_name": "Chennai",
+    "created_at": "2026-09-27T15:03:56.881498+00:00",
+    "_id": "73"
+  },
+  {
+    "message_id": "74a45bba-d523-4660-b263-e36a20fcc982",
+    "conversation_id": "8b9d8a96-a676-48f4-9bd3-9ab46e3ce045",
+    "user_id": null,
+    "role": "assistant",
+    "content": "Forecast for Chennai (Tomorrow). Precipitation Probability: 79%. Rain is Likely. Expected Precipitation: 0.7 mm. Sky Condition: Light drizzle. Temperature Range: Min 26.7\u00b0C / Max 35.1\u00b0C. Forecast Lead Source: Open-Meteo High-Resolution Multi-Model Forecast.",
+    "intent": "forecast",
+    "location_name": "Chennai",
+    "data_sources": [
+      "Open-Meteo Meteorological WMO / ECMWF Feed"
+    ],
+    "created_at": "2026-09-27T15:03:56.881498+00:00",
+    "_id": "74"
+  },
+  {
+    "message_id": "d4950420-cf98-44c1-8fd5-bb976267e095",
+    "conversation_id": "e9642fd1-e740-482a-a12f-856bbdfb08b9",
+    "user_id": null,
+    "role": "user",
+    "content": "Will it rain in Chennai tomorrow evening?",
+    "location_name": "Chennai",
+    "created_at": "2026-09-27T15:03:58.340092+00:00",
+    "_id": "75"
+  },
+  {
+    "message_id": "7c287552-7ff4-4df5-86d8-a6b517e97a4e",
+    "conversation_id": "e9642fd1-e740-482a-a12f-856bbdfb08b9",
+    "user_id": null,
+    "role": "assistant",
+    "content": "Forecast for Chennai (Tomorrow). Precipitation Probability: 79%. Rain is Likely. Expected Precipitation: 0.7 mm. Sky Condition: Light drizzle. Temperature Range: Min 26.7\u00b0C / Max 35.1\u00b0C. Forecast Lead Source: Open-Meteo High-Resolution Multi-Model Forecast.",
+    "intent": "forecast",
+    "location_name": "Chennai",
+    "data_sources": [
+      "Open-Meteo Meteorological WMO / ECMWF Feed"
+    ],
+    "created_at": "2026-09-27T15:03:58.340092+00:00",
+    "_id": "76"
+  },
+  {
+    "message_id": "d0c66932-2b13-4591-adec-d40c95582ecc",
+    "conversation_id": "4a12a8a0-f7ea-41cb-b193-1b5d990b2982",
+    "user_id": null,
+    "role": "user",
+    "content": "Will it rain in Chennai tomorrow evening?",
+    "location_name": "Chennai",
+    "created_at": "2026-09-27T15:03:55.432673+00:00",
+    "_id": "77"
+  },
+  {
+    "message_id": "a4f593b4-1b24-479b-bda2-8b7e10e6aad8",
+    "conversation_id": "4a12a8a0-f7ea-41cb-b193-1b5d990b2982",
+    "user_id": null,
+    "role": "assistant",
+    "content": "Forecast for Chennai (Tomorrow). Precipitation Probability: 79%. Rain is Likely. Expected Precipitation: 0.7 mm. Sky Condition: Light drizzle. Temperature Range: Min 26.7\u00b0C / Max 35.1\u00b0C. Forecast Lead Source: Open-Meteo High-Resolution Multi-Model Forecast.",
+    "intent": "forecast",
+    "location_name": "Chennai",
+    "data_sources": [
+      "Open-Meteo Meteorological WMO / ECMWF Feed"
+    ],
+    "created_at": "2026-09-27T15:03:55.432673+00:00",
+    "_id": "78"
+  },
+  {
+    "message_id": "39ff8aeb-d1ec-4cdf-ac75-cfd696d38db7",
+    "conversation_id": "b2adf90c-e09f-4696-a8c3-40274469f8e0",
+    "user_id": null,
+    "role": "user",
+    "content": "Will it rain in Chennai tomorrow evening?",
+    "location_name": "Chennai",
+    "created_at": "2026-09-27T15:04:02.635469+00:00",
+    "_id": "79"
+  },
+  {
+    "message_id": "3d8b6d25-930b-48dc-8b92-9696578259a8",
+    "conversation_id": "b2adf90c-e09f-4696-a8c3-40274469f8e0",
+    "user_id": null,
+    "role": "assistant",
+    "content": "Forecast for Chennai (Tomorrow). Precipitation Probability: 79%. Rain is Likely. Expected Precipitation: 0.7 mm. Sky Condition: Light drizzle. Temperature Range: Min 26.7\u00b0C / Max 35.1\u00b0C. Forecast Lead Source: Open-Meteo High-Resolution Multi-Model Forecast.",
+    "intent": "forecast",
+    "location_name": "Chennai",
+    "data_sources": [
+      "Open-Meteo Meteorological WMO / ECMWF Feed"
+    ],
+    "created_at": "2026-09-27T15:04:02.635469+00:00",
+    "_id": "80"
+  },
+  {
+    "message_id": "aa12515f-afc0-45a5-8fe6-68a9994f2b5d",
+    "conversation_id": "0b7cd015-b59a-4044-bcdc-f34f9c1cefbe",
+    "user_id": null,
+    "role": "user",
+    "content": "Will it rain in Chennai tomorrow evening?",
+    "location_name": "Chennai",
+    "created_at": "2026-09-27T15:04:01.173274+00:00",
+    "_id": "81"
+  },
+  {
+    "message_id": "a4642424-13fe-4a97-9df6-9fd372317797",
+    "conversation_id": "0b7cd015-b59a-4044-bcdc-f34f9c1cefbe",
+    "user_id": null,
+    "role": "assistant",
+    "content": "Forecast for Chennai (Tomorrow). Precipitation Probability: 79%. Rain is Likely. Expected Precipitation: 0.7 mm. Sky Condition: Light drizzle. Temperature Range: Min 26.7\u00b0C / Max 35.1\u00b0C. Forecast Lead Source: Open-Meteo High-Resolution Multi-Model Forecast.",
+    "intent": "forecast",
+    "location_name": "Chennai",
+    "data_sources": [
+      "Open-Meteo Meteorological WMO / ECMWF Feed"
+    ],
+    "created_at": "2026-09-27T15:04:01.173274+00:00",
+    "_id": "82"
+  },
+  {
+    "message_id": "0da1a2f9-d26e-4568-9c49-c3f74b764dd4",
+    "conversation_id": "e6693114-756d-4a57-b496-5f3ec68f87eb",
+    "user_id": null,
+    "role": "user",
+    "content": "Will it rain in Chennai tomorrow evening?",
+    "location_name": "Chennai",
+    "created_at": "2026-09-27T15:03:59.732829+00:00",
+    "_id": "83"
+  },
+  {
+    "message_id": "1775bbc1-c0c6-477d-a2c7-ddf904e1403d",
+    "conversation_id": "e6693114-756d-4a57-b496-5f3ec68f87eb",
+    "user_id": null,
+    "role": "assistant",
+    "content": "Forecast for Chennai (Tomorrow). Precipitation Probability: 79%. Rain is Likely. Expected Precipitation: 0.7 mm. Sky Condition: Light drizzle. Temperature Range: Min 26.7\u00b0C / Max 35.1\u00b0C. Forecast Lead Source: Open-Meteo High-Resolution Multi-Model Forecast.",
+    "intent": "forecast",
+    "location_name": "Chennai",
+    "data_sources": [
+      "Open-Meteo Meteorological WMO / ECMWF Feed"
+    ],
+    "created_at": "2026-09-27T15:03:59.732829+00:00",
+    "_id": "84"
+  },
+  {
+    "message_id": "a21374b8-589c-4f13-9eaa-5dcc783613b9",
+    "conversation_id": "fa7feca7-a87d-41fb-a0a2-2105a91fcc54",
+    "user_id": null,
+    "role": "user",
+    "content": "Will it rain in Chennai tomorrow evening?",
+    "location_name": "Chennai",
+    "created_at": "2026-09-27T15:04:44.252052+00:00",
+    "_id": "85"
+  },
+  {
+    "message_id": "687af1d7-f8ae-4dc7-86cb-27a84d7b0f97",
+    "conversation_id": "fa7feca7-a87d-41fb-a0a2-2105a91fcc54",
+    "user_id": null,
+    "role": "assistant",
+    "content": "Forecast for Chennai (Tomorrow). Precipitation Probability: 79%. Rain is Likely. Expected Precipitation: 0.7 mm. Sky Condition: Light drizzle. Temperature Range: Min 26.7\u00b0C / Max 35.1\u00b0C. Forecast Lead Source: Open-Meteo High-Resolution Multi-Model Forecast.",
+    "intent": "forecast",
+    "location_name": "Chennai",
+    "data_sources": [
+      "Open-Meteo Meteorological WMO / ECMWF Feed"
+    ],
+    "created_at": "2026-09-27T15:04:44.252052+00:00",
+    "_id": "86"
+  },
+  {
+    "message_id": "4e93590d-30e7-4699-b58f-4acf4442ebd9",
+    "conversation_id": "d0ea92ef-6645-43ff-95ed-7718f39e8ce9",
+    "user_id": null,
+    "role": "user",
+    "content": "Will it rain in Chennai tomorrow evening?",
+    "location_name": "Chennai",
+    "created_at": "2026-09-27T15:04:42.880633+00:00",
+    "_id": "87"
+  },
+  {
+    "message_id": "a1966ae0-7501-4a47-adb2-c9642c64fefc",
+    "conversation_id": "d0ea92ef-6645-43ff-95ed-7718f39e8ce9",
+    "user_id": null,
+    "role": "assistant",
+    "content": "Forecast for Chennai (Tomorrow). Precipitation Probability: 79%. Rain is Likely. Expected Precipitation: 0.7 mm. Sky Condition: Light drizzle. Temperature Range: Min 26.7\u00b0C / Max 35.1\u00b0C. Forecast Lead Source: Open-Meteo High-Resolution Multi-Model Forecast.",
+    "intent": "forecast",
+    "location_name": "Chennai",
+    "data_sources": [
+      "Open-Meteo Meteorological WMO / ECMWF Feed"
+    ],
+    "created_at": "2026-09-27T15:04:42.880633+00:00",
+    "_id": "88"
+  },
+  {
+    "message_id": "cedf94dc-e430-42eb-91e0-e80b25f16641",
+    "conversation_id": "58efe8e6-f6a5-43ab-93b7-476720c8bbcb",
+    "user_id": null,
+    "role": "user",
+    "content": "Will it rain in Chennai tomorrow evening?",
+    "location_name": "Chennai",
+    "created_at": "2026-09-27T15:04:49.046302+00:00",
+    "_id": "89"
+  },
+  {
+    "message_id": "36918d07-6274-4d6d-adfa-7bbc78cf6c6d",
+    "conversation_id": "58efe8e6-f6a5-43ab-93b7-476720c8bbcb",
+    "user_id": null,
+    "role": "assistant",
+    "content": "Forecast for Chennai (Tomorrow). Precipitation Probability: 79%. Rain is Likely. Expected Precipitation: 0.7 mm. Sky Condition: Light drizzle. Temperature Range: Min 26.7\u00b0C / Max 35.1\u00b0C. Forecast Lead Source: Open-Meteo High-Resolution Multi-Model Forecast.",
+    "intent": "forecast",
+    "location_name": "Chennai",
+    "data_sources": [
+      "Open-Meteo Meteorological WMO / ECMWF Feed"
+    ],
+    "created_at": "2026-09-27T15:04:49.046302+00:00",
+    "_id": "90"
+  },
+  {
+    "message_id": "b0102477-4d94-479c-b0eb-a7119393b306",
+    "conversation_id": "386aacac-c772-4e02-bee6-614ade6c910e",
+    "user_id": null,
+    "role": "user",
+    "content": "Will it rain in Chennai tomorrow evening?",
+    "location_name": "Chennai",
+    "created_at": "2026-09-27T15:04:50.460233+00:00",
+    "_id": "91"
+  },
+  {
+    "message_id": "a50c0cca-73fe-4562-bc4f-c7aa17c81023",
+    "conversation_id": "386aacac-c772-4e02-bee6-614ade6c910e",
+    "user_id": null,
+    "role": "assistant",
+    "content": "Forecast for Chennai (Tomorrow). Precipitation Probability: 79%. Rain is Likely. Expected Precipitation: 0.7 mm. Sky Condition: Light drizzle. Temperature Range: Min 26.7\u00b0C / Max 35.1\u00b0C. Forecast Lead Source: Open-Meteo High-Resolution Multi-Model Forecast.",
+    "intent": "forecast",
+    "location_name": "Chennai",
+    "data_sources": [
+      "Open-Meteo Meteorological WMO / ECMWF Feed"
+    ],
+    "created_at": "2026-09-27T15:04:50.460233+00:00",
+    "_id": "92"
+  },
+  {
+    "message_id": "862761c2-82b5-45ce-8c85-5dc0618cfff3",
+    "conversation_id": "f02b2f5a-2772-4f43-8c8c-201b297c491b",
+    "user_id": null,
+    "role": "user",
+    "content": "Will it rain in Chennai tomorrow evening?",
+    "location_name": "Chennai",
+    "created_at": "2026-09-27T15:04:59.094478+00:00",
+    "_id": "93"
+  },
+  {
+    "message_id": "bb3aab9c-ecb0-4cd2-ac0c-5401557c8828",
+    "conversation_id": "f02b2f5a-2772-4f43-8c8c-201b297c491b",
+    "user_id": null,
+    "role": "assistant",
+    "content": "Forecast for Chennai (Tomorrow). Precipitation Probability: 79%. Rain is Likely. Expected Precipitation: 0.7 mm. Sky Condition: Light drizzle. Temperature Range: Min 26.7\u00b0C / Max 35.1\u00b0C. Forecast Lead Source: Open-Meteo High-Resolution Multi-Model Forecast.",
+    "intent": "forecast",
+    "location_name": "Chennai",
+    "data_sources": [
+      "Open-Meteo Meteorological WMO / ECMWF Feed"
+    ],
+    "created_at": "2026-09-27T15:04:59.094478+00:00",
+    "_id": "94"
+  },
+  {
+    "message_id": "70935cc5-4ebd-45a8-b8bb-bffe281df9b1",
+    "conversation_id": "a7e5e82a-74cf-4d71-b3b2-d810350f78f2",
+    "user_id": null,
+    "role": "user",
+    "content": "Will it rain in Chennai tomorrow evening?",
+    "location_name": "Chennai",
+    "created_at": "2026-09-27T15:05:01.052571+00:00",
+    "_id": "95"
+  },
+  {
+    "message_id": "4df4de37-5557-4ec4-9dd9-6595209dd0b4",
+    "conversation_id": "a7e5e82a-74cf-4d71-b3b2-d810350f78f2",
+    "user_id": null,
+    "role": "assistant",
+    "content": "Forecast for Chennai (Tomorrow). Precipitation Probability: 79%. Rain is Likely. Expected Precipitation: 0.7 mm. Sky Condition: Light drizzle. Temperature Range: Min 26.7\u00b0C / Max 35.1\u00b0C. Forecast Lead Source: Open-Meteo High-Resolution Multi-Model Forecast.",
+    "intent": "forecast",
+    "location_name": "Chennai",
+    "data_sources": [
+      "Open-Meteo Meteorological WMO / ECMWF Feed"
+    ],
+    "created_at": "2026-09-27T15:05:01.052571+00:00",
+    "_id": "96"
+  },
+  {
+    "message_id": "b110ce65-17e1-40f4-a92c-3653378e4629",
+    "conversation_id": "8f534ea6-8527-4cef-93af-e074b2f4a04b",
+    "user_id": null,
+    "role": "user",
+    "content": "Will it rain in Chennai tomorrow evening?",
+    "location_name": "Chennai",
+    "created_at": "2026-09-27T15:05:07.418362+00:00",
+    "_id": "97"
+  },
+  {
+    "message_id": "7a5bfb56-5525-425b-a95d-76814cf3de61",
+    "conversation_id": "8f534ea6-8527-4cef-93af-e074b2f4a04b",
+    "user_id": null,
+    "role": "assistant",
+    "content": "Forecast for Chennai (Tomorrow). Precipitation Probability: 79%. Rain is Likely. Expected Precipitation: 0.7 mm. Sky Condition: Light drizzle. Temperature Range: Min 26.7\u00b0C / Max 35.1\u00b0C. Forecast Lead Source: Open-Meteo High-Resolution Multi-Model Forecast.",
+    "intent": "forecast",
+    "location_name": "Chennai",
+    "data_sources": [
+      "Open-Meteo Meteorological WMO / ECMWF Feed"
+    ],
+    "created_at": "2026-09-27T15:05:07.418362+00:00",
+    "_id": "98"
+  },
+  {
+    "message_id": "4be8d802-3aae-4f69-b2c2-743304dcde9d",
+    "conversation_id": "c22a6df4-9ea8-4cb4-8b6c-57c58bf2da85",
+    "user_id": null,
+    "role": "user",
+    "content": "Will it rain in Chennai tomorrow evening?",
+    "location_name": "Chennai",
+    "created_at": "2026-09-27T15:05:08.592303+00:00",
+    "_id": "99"
+  },
+  {
+    "message_id": "350b0823-ecff-4517-aa99-17f0f8712cf2",
+    "conversation_id": "c22a6df4-9ea8-4cb4-8b6c-57c58bf2da85",
+    "user_id": null,
+    "role": "assistant",
+    "content": "Forecast for Chennai (Tomorrow). Precipitation Probability: 79%. Rain is Likely. Expected Precipitation: 0.7 mm. Sky Condition: Light drizzle. Temperature Range: Min 26.7\u00b0C / Max 35.1\u00b0C. Forecast Lead Source: Open-Meteo High-Resolution Multi-Model Forecast.",
+    "intent": "forecast",
+    "location_name": "Chennai",
+    "data_sources": [
+      "Open-Meteo Meteorological WMO / ECMWF Feed"
+    ],
+    "created_at": "2026-09-27T15:05:08.592303+00:00",
+    "_id": "100"
+  },
+  {
+    "message_id": "486578f6-d9d2-4c58-8734-64428fb70262",
+    "conversation_id": "72b2036d-e73e-4bc1-a42e-43c212329f34",
+    "user_id": null,
+    "role": "user",
+    "content": "Will it rain in Chennai tomorrow evening?",
+    "location_name": "Chennai",
+    "created_at": "2026-09-27T15:05:10.049871+00:00",
+    "_id": "101"
+  },
+  {
+    "message_id": "223437af-2b30-4ff6-bfcc-dfdccd587cdf",
+    "conversation_id": "72b2036d-e73e-4bc1-a42e-43c212329f34",
+    "user_id": null,
+    "role": "assistant",
+    "content": "Forecast for Chennai (Tomorrow). Precipitation Probability: 79%. Rain is Likely. Expected Precipitation: 0.7 mm. Sky Condition: Light drizzle. Temperature Range: Min 26.7\u00b0C / Max 35.1\u00b0C. Forecast Lead Source: Open-Meteo High-Resolution Multi-Model Forecast.",
+    "intent": "forecast",
+    "location_name": "Chennai",
+    "data_sources": [
+      "Open-Meteo Meteorological WMO / ECMWF Feed"
+    ],
+    "created_at": "2026-09-27T15:05:10.049871+00:00",
+    "_id": "102"
+  },
+  {
+    "message_id": "9cca06ef-1b02-4cd3-986d-6aefafecd952",
+    "conversation_id": "fb44e3e0-6bdc-42b1-afdb-43a4bba6e3e2",
+    "user_id": null,
+    "role": "user",
+    "content": "Will it rain in Chennai tomorrow evening?",
+    "location_name": "Chennai",
+    "created_at": "2026-09-27T15:05:09.568692+00:00",
+    "_id": "103"
+  },
+  {
+    "message_id": "d44cf127-4f39-4ab9-b457-ccb5c5880c2d",
+    "conversation_id": "fb44e3e0-6bdc-42b1-afdb-43a4bba6e3e2",
+    "user_id": null,
+    "role": "assistant",
+    "content": "Forecast for Chennai (Tomorrow). Precipitation Probability: 79%. Rain is Likely. Expected Precipitation: 0.7 mm. Sky Condition: Light drizzle. Temperature Range: Min 26.7\u00b0C / Max 35.1\u00b0C. Forecast Lead Source: Open-Meteo High-Resolution Multi-Model Forecast.",
+    "intent": "forecast",
+    "location_name": "Chennai",
+    "data_sources": [
+      "Open-Meteo Meteorological WMO / ECMWF Feed"
+    ],
+    "created_at": "2026-09-27T15:05:09.568692+00:00",
+    "_id": "104"
+  },
+  {
+    "message_id": "ef7abf22-ea72-4dd3-9dd8-db05596d06d2",
+    "conversation_id": "c5439893-201e-49e4-a5af-ce598f675572",
+    "user_id": null,
+    "role": "user",
+    "content": "Will it rain in Chennai tomorrow evening?",
+    "location_name": "Chennai",
+    "created_at": "2026-09-27T15:05:16.704950+00:00",
+    "_id": "105"
+  },
+  {
+    "message_id": "e18ccf2e-48ed-41a0-a2c5-a555e43598fb",
+    "conversation_id": "c5439893-201e-49e4-a5af-ce598f675572",
+    "user_id": null,
+    "role": "assistant",
+    "content": "Forecast for Chennai (Tomorrow). Precipitation Probability: 79%. Rain is Likely. Expected Precipitation: 0.7 mm. Sky Condition: Light drizzle. Temperature Range: Min 26.7\u00b0C / Max 35.1\u00b0C. Forecast Lead Source: Open-Meteo High-Resolution Multi-Model Forecast.",
+    "intent": "forecast",
+    "location_name": "Chennai",
+    "data_sources": [
+      "Open-Meteo Meteorological WMO / ECMWF Feed"
+    ],
+    "created_at": "2026-09-27T15:05:16.704950+00:00",
+    "_id": "106"
+  },
+  {
+    "message_id": "36209e91-1853-495f-ad84-dc5f5768c63e",
+    "conversation_id": "c266462a-5b99-46ed-a4b5-82db3d22662d",
+    "user_id": null,
+    "role": "user",
+    "content": "Will it rain in Chennai tomorrow evening?",
+    "location_name": "Chennai",
+    "created_at": "2026-09-27T15:05:17.545425+00:00",
+    "_id": "107"
+  },
+  {
+    "message_id": "7c52b78d-6dd5-4be9-9f26-15d67c92bc9f",
+    "conversation_id": "c266462a-5b99-46ed-a4b5-82db3d22662d",
+    "user_id": null,
+    "role": "assistant",
+    "content": "Forecast for Chennai (Tomorrow). Precipitation Probability: 79%. Rain is Likely. Expected Precipitation: 0.7 mm. Sky Condition: Light drizzle. Temperature Range: Min 26.7\u00b0C / Max 35.1\u00b0C. Forecast Lead Source: Open-Meteo High-Resolution Multi-Model Forecast.",
+    "intent": "forecast",
+    "location_name": "Chennai",
+    "data_sources": [
+      "Open-Meteo Meteorological WMO / ECMWF Feed"
+    ],
+    "created_at": "2026-09-27T15:05:17.545425+00:00",
+    "_id": "108"
+  },
+  {
+    "message_id": "a954c12a-9911-41fa-b771-0e7e4494278b",
+    "conversation_id": "c3e4c773-6f26-40c9-b96f-d920823ededa",
+    "user_id": null,
+    "role": "user",
+    "content": "Will it rain in Chennai tomorrow evening?",
+    "location_name": "Chennai",
+    "created_at": "2026-09-27T15:05:27.244649+00:00",
+    "_id": "109"
+  },
+  {
+    "message_id": "9007bb26-7fef-49d4-a82e-433480b2c67f",
+    "conversation_id": "c3e4c773-6f26-40c9-b96f-d920823ededa",
+    "user_id": null,
+    "role": "assistant",
+    "content": "Forecast for Chennai (Tomorrow). Precipitation Probability: 79%. Rain is Likely. Expected Precipitation: 0.7 mm. Sky Condition: Light drizzle. Temperature Range: Min 26.7\u00b0C / Max 35.1\u00b0C. Forecast Lead Source: Open-Meteo High-Resolution Multi-Model Forecast.",
+    "intent": "forecast",
+    "location_name": "Chennai",
+    "data_sources": [
+      "Open-Meteo Meteorological WMO / ECMWF Feed"
+    ],
+    "created_at": "2026-09-27T15:05:27.244649+00:00",
+    "_id": "110"
+  },
+  {
+    "message_id": "6ae9ec9a-71c9-494e-9ae7-6a6b028f411b",
+    "conversation_id": "7d5b6952-14fa-441a-a01d-655443b5011d",
+    "user_id": null,
+    "role": "user",
+    "content": "Will it rain in Chennai tomorrow evening?",
+    "location_name": "Chennai",
+    "created_at": "2026-09-27T15:05:23.412820+00:00",
+    "_id": "111"
+  },
+  {
+    "message_id": "eee0036a-dfb7-4f0c-a547-e72ff4887c74",
+    "conversation_id": "7d5b6952-14fa-441a-a01d-655443b5011d",
+    "user_id": null,
+    "role": "assistant",
+    "content": "Forecast for Chennai (Tomorrow). Precipitation Probability: 79%. Rain is Likely. Expected Precipitation: 0.7 mm. Sky Condition: Light drizzle. Temperature Range: Min 26.7\u00b0C / Max 35.1\u00b0C. Forecast Lead Source: Open-Meteo High-Resolution Multi-Model Forecast.",
+    "intent": "forecast",
+    "location_name": "Chennai",
+    "data_sources": [
+      "Open-Meteo Meteorological WMO / ECMWF Feed"
+    ],
+    "created_at": "2026-09-27T15:05:23.412820+00:00",
+    "_id": "112"
+  },
+  {
+    "message_id": "0879132d-02bf-4e71-991e-f513529a20d3",
+    "conversation_id": "28e62798-e0ac-46d9-89ca-a4497d51dd59",
+    "user_id": null,
+    "role": "user",
+    "content": "Will it rain in Chennai tomorrow evening?",
+    "location_name": "Chennai",
+    "created_at": "2026-09-27T15:05:27.710973+00:00",
+    "_id": "113"
+  },
+  {
+    "message_id": "dcdf5521-01d1-4d88-bf3c-78a359628bc2",
+    "conversation_id": "28e62798-e0ac-46d9-89ca-a4497d51dd59",
+    "user_id": null,
+    "role": "assistant",
+    "content": "Forecast for Chennai (Tomorrow). Precipitation Probability: 79%. Rain is Likely. Expected Precipitation: 0.7 mm. Sky Condition: Light drizzle. Temperature Range: Min 26.7\u00b0C / Max 35.1\u00b0C. Forecast Lead Source: Open-Meteo High-Resolution Multi-Model Forecast.",
+    "intent": "forecast",
+    "location_name": "Chennai",
+    "data_sources": [
+      "Open-Meteo Meteorological WMO / ECMWF Feed"
+    ],
+    "created_at": "2026-09-27T15:05:27.710973+00:00",
+    "_id": "114"
+  },
+  {
+    "message_id": "7f1490f7-a9a6-43f2-8ef8-59590bc64fef",
+    "conversation_id": "8a70c5e1-5d18-4e17-a928-b2bb11e0dc30",
+    "user_id": null,
+    "role": "user",
+    "content": "Will it rain in Chennai tomorrow evening?",
+    "location_name": "Chennai",
+    "created_at": "2026-09-27T15:05:31.169508+00:00",
+    "_id": "115"
+  },
+  {
+    "message_id": "b0093449-2b82-4f88-b355-6ac1de2717a5",
+    "conversation_id": "8a70c5e1-5d18-4e17-a928-b2bb11e0dc30",
+    "user_id": null,
+    "role": "assistant",
+    "content": "Forecast for Chennai (Tomorrow). Precipitation Probability: 79%. Rain is Likely. Expected Precipitation: 0.7 mm. Sky Condition: Light drizzle. Temperature Range: Min 26.7\u00b0C / Max 35.1\u00b0C. Forecast Lead Source: Open-Meteo High-Resolution Multi-Model Forecast.",
+    "intent": "forecast",
+    "location_name": "Chennai",
+    "data_sources": [
+      "Open-Meteo Meteorological WMO / ECMWF Feed"
+    ],
+    "created_at": "2026-09-27T15:05:31.169508+00:00",
+    "_id": "116"
+  },
+  {
+    "message_id": "4085e88e-7069-40aa-a622-e28f0298c7eb",
+    "conversation_id": "f5873028-b001-4e68-a61a-760642ad7df7",
+    "user_id": null,
+    "role": "user",
+    "content": "Will it rain in Chennai tomorrow evening?",
+    "location_name": "Chennai",
+    "created_at": "2026-09-27T15:05:33.840012+00:00",
+    "_id": "117"
+  },
+  {
+    "message_id": "21320b3f-3e8a-4fd1-89df-6a0428df2718",
+    "conversation_id": "f5873028-b001-4e68-a61a-760642ad7df7",
+    "user_id": null,
+    "role": "assistant",
+    "content": "Forecast for Chennai (Tomorrow). Precipitation Probability: 79%. Rain is Likely. Expected Precipitation: 0.7 mm. Sky Condition: Light drizzle. Temperature Range: Min 26.7\u00b0C / Max 35.1\u00b0C. Forecast Lead Source: Open-Meteo High-Resolution Multi-Model Forecast.",
+    "intent": "forecast",
+    "location_name": "Chennai",
+    "data_sources": [
+      "Open-Meteo Meteorological WMO / ECMWF Feed"
+    ],
+    "created_at": "2026-09-27T15:05:33.840012+00:00",
+    "_id": "118"
+  },
+  {
+    "message_id": "4d28e10d-c23d-4dca-b3c9-da42cced8657",
+    "conversation_id": "26d53277-199a-43b1-abdc-a46391041417",
+    "user_id": null,
+    "role": "user",
+    "content": "Will it rain in Chennai tomorrow evening?",
+    "location_name": "Chennai",
+    "created_at": "2026-09-27T15:05:35.743681+00:00",
+    "_id": "119"
+  },
+  {
+    "message_id": "feb93f80-cca8-4f8b-ab3d-09d734d3ba2f",
+    "conversation_id": "26d53277-199a-43b1-abdc-a46391041417",
+    "user_id": null,
+    "role": "assistant",
+    "content": "Forecast for Chennai (Tomorrow). Precipitation Probability: 79%. Rain is Likely. Expected Precipitation: 0.7 mm. Sky Condition: Light drizzle. Temperature Range: Min 26.7\u00b0C / Max 35.1\u00b0C. Forecast Lead Source: Open-Meteo High-Resolution Multi-Model Forecast.",
+    "intent": "forecast",
+    "location_name": "Chennai",
+    "data_sources": [
+      "Open-Meteo Meteorological WMO / ECMWF Feed"
+    ],
+    "created_at": "2026-09-27T15:05:35.743681+00:00",
+    "_id": "120"
+  },
+  {
+    "message_id": "ad7e51f7-6b85-4627-8a5b-47d1ca540f1f",
+    "conversation_id": "15829b40-302a-444d-872b-5b9c9d33d1bf",
+    "user_id": null,
+    "role": "user",
+    "content": "Will it rain in Chennai tomorrow evening?",
+    "location_name": "Chennai",
+    "created_at": "2026-09-27T15:05:43.128291+00:00",
+    "_id": "121"
+  },
+  {
+    "message_id": "4b27a8dc-106d-46f9-9892-8bb2cec5bbc1",
+    "conversation_id": "15829b40-302a-444d-872b-5b9c9d33d1bf",
+    "user_id": null,
+    "role": "assistant",
+    "content": "Forecast for Chennai (Tomorrow). Precipitation Probability: 79%. Rain is Likely. Expected Precipitation: 0.7 mm. Sky Condition: Light drizzle. Temperature Range: Min 26.7\u00b0C / Max 35.1\u00b0C. Forecast Lead Source: Open-Meteo High-Resolution Multi-Model Forecast.",
+    "intent": "forecast",
+    "location_name": "Chennai",
+    "data_sources": [
+      "Open-Meteo Meteorological WMO / ECMWF Feed"
+    ],
+    "created_at": "2026-09-27T15:05:43.128291+00:00",
+    "_id": "122"
+  },
+  {
+    "message_id": "738598e4-4a32-4456-9251-c64781b9d115",
+    "conversation_id": "acd25693-0e30-4961-9429-0a99f56e7d46",
+    "user_id": null,
+    "role": "user",
+    "content": "Will it rain in Chennai tomorrow evening?",
+    "location_name": "Chennai",
+    "created_at": "2026-09-27T15:05:42.632815+00:00",
+    "_id": "123"
+  },
+  {
+    "message_id": "e0edc25d-d7dc-4cac-91ca-bff738ef4d22",
+    "conversation_id": "acd25693-0e30-4961-9429-0a99f56e7d46",
+    "user_id": null,
+    "role": "assistant",
+    "content": "Forecast for Chennai (Tomorrow). Precipitation Probability: 79%. Rain is Likely. Expected Precipitation: 0.7 mm. Sky Condition: Light drizzle. Temperature Range: Min 26.7\u00b0C / Max 35.1\u00b0C. Forecast Lead Source: Open-Meteo High-Resolution Multi-Model Forecast.",
+    "intent": "forecast",
+    "location_name": "Chennai",
+    "data_sources": [
+      "Open-Meteo Meteorological WMO / ECMWF Feed"
+    ],
+    "created_at": "2026-09-27T15:05:42.632815+00:00",
+    "_id": "124"
+  },
+  {
+    "message_id": "249e95dd-cfec-4895-a83d-3e40dc6032a7",
+    "conversation_id": "3f00e5a6-b204-4595-9abf-1e3172ef9a0b",
+    "user_id": null,
+    "role": "user",
+    "content": "Will it rain in Chennai tomorrow evening?",
+    "location_name": "Chennai",
+    "created_at": "2026-09-27T15:05:45.708758+00:00",
+    "_id": "125"
+  },
+  {
+    "message_id": "1e844bce-749a-421c-a926-3b430cea8f41",
+    "conversation_id": "3f00e5a6-b204-4595-9abf-1e3172ef9a0b",
+    "user_id": null,
+    "role": "assistant",
+    "content": "Forecast for Chennai (Tomorrow). Precipitation Probability: 79%. Rain is Likely. Expected Precipitation: 0.7 mm. Sky Condition: Light drizzle. Temperature Range: Min 26.7\u00b0C / Max 35.1\u00b0C. Forecast Lead Source: Open-Meteo High-Resolution Multi-Model Forecast.",
+    "intent": "forecast",
+    "location_name": "Chennai",
+    "data_sources": [
+      "Open-Meteo Meteorological WMO / ECMWF Feed"
+    ],
+    "created_at": "2026-09-27T15:05:45.708758+00:00",
+    "_id": "126"
+  },
+  {
+    "message_id": "c9013135-481f-4382-95c5-8f064d809f1a",
+    "conversation_id": "da5c3abf-ad92-4d66-9db7-f769b756457f",
+    "user_id": null,
+    "role": "user",
+    "content": "Will it rain in Chennai tomorrow evening?",
+    "location_name": "Chennai",
+    "created_at": "2026-09-27T15:06:05.502071+00:00",
+    "_id": "127"
+  },
+  {
+    "message_id": "919be9fe-4a8a-4903-9470-75c66ddebdc6",
+    "conversation_id": "da5c3abf-ad92-4d66-9db7-f769b756457f",
+    "user_id": null,
+    "role": "assistant",
+    "content": "Forecast for Chennai (Tomorrow). Precipitation Probability: 79%. Rain is Likely. Expected Precipitation: 0.7 mm. Sky Condition: Light drizzle. Temperature Range: Min 26.7\u00b0C / Max 35.1\u00b0C. Forecast Lead Source: Open-Meteo High-Resolution Multi-Model Forecast.",
+    "intent": "forecast",
+    "location_name": "Chennai",
+    "data_sources": [
+      "Open-Meteo Meteorological WMO / ECMWF Feed"
+    ],
+    "created_at": "2026-09-27T15:06:05.502071+00:00",
+    "_id": "128"
+  },
+  {
+    "message_id": "fe438962-4ea2-45e0-9468-438c74913b84",
+    "conversation_id": "a686cd66-66b9-487c-b873-6769aebb75d3",
+    "user_id": null,
+    "role": "user",
+    "content": "Will it rain today in Chennai?",
+    "location_name": "Chennai",
+    "created_at": "2026-09-27T15:06:51.373764+00:00",
+    "_id": "129"
+  },
+  {
+    "message_id": "4d139691-1d6f-4ec9-9b84-9107b01b3a63",
+    "conversation_id": "a686cd66-66b9-487c-b873-6769aebb75d3",
+    "user_id": null,
+    "role": "assistant",
+    "content": "Forecast for Chennai (Today). Precipitation Probability: 37%. Rain is Possible light showers. Expected Precipitation: 4.5 mm. Sky Condition: Afternoon thunderstorms. Temperature Range: Min 26.0\u00b0C / Max 32.5\u00b0C. Forecast Lead Source: DEMO / SIMULATED DATA (Synthesized Reference Meteorological Engine).",
+    "intent": "rainfall",
+    "location_name": "Chennai",
+    "data_sources": [
+      "DEMO / SIMULATED DATA (Synthesized Reference Meteorological Engine)"
+    ],
+    "created_at": "2026-09-27T15:06:51.373764+00:00",
+    "_id": "130"
+  },
+  {
+    "message_id": "82b5231b-828e-4ffb-8d07-51dea844eb7a",
+    "conversation_id": "797a4dbd-eba5-44a8-8564-faaa5086c542",
+    "user_id": null,
+    "role": "user",
+    "content": "Will it rain today in Chennai?",
+    "location_name": "Chennai",
+    "created_at": "2026-09-27T15:06:56.192570+00:00",
+    "_id": "131"
+  },
+  {
+    "message_id": "abaec8e0-39a6-4d4a-a9fb-f9fa0595e6b2",
+    "conversation_id": "797a4dbd-eba5-44a8-8564-faaa5086c542",
+    "user_id": null,
+    "role": "assistant",
+    "content": "Forecast for Chennai (Today). Precipitation Probability: 63%. Rain is Likely. Expected Precipitation: 0.7 mm. Sky Condition: Light drizzle. Temperature Range: Min 26.7\u00b0C / Max 35.1\u00b0C. Forecast Lead Source: Open-Meteo High-Resolution Multi-Model Forecast.",
+    "intent": "rainfall",
+    "location_name": "Chennai",
+    "data_sources": [
+      "DEMO / SIMULATED DATA (Synthesized Reference Meteorological Engine)"
+    ],
+    "created_at": "2026-09-27T15:06:56.192570+00:00",
+    "_id": "132"
+  },
+  {
+    "message_id": "665db0ba-07ee-4ce2-9427-9e4056edef3c",
+    "conversation_id": "6d967761-c5de-424a-90d0-54890f6accd1",
+    "user_id": null,
+    "role": "user",
+    "content": "Will it rain today in Chennai?",
+    "location_name": "Chennai",
+    "created_at": "2026-09-27T15:07:14.405075+00:00",
+    "_id": "133"
+  },
+  {
+    "message_id": "d256f473-febf-46d8-9d02-22ccf26c8cc8",
+    "conversation_id": "6d967761-c5de-424a-90d0-54890f6accd1",
+    "user_id": null,
+    "role": "assistant",
+    "content": "Forecast for Chennai (Today). Precipitation Probability: 63%. Rain is Likely. Expected Precipitation: 0.7 mm. Sky Condition: Light drizzle. Temperature Range: Min 26.7\u00b0C / Max 35.1\u00b0C. Forecast Lead Source: Open-Meteo High-Resolution Multi-Model Forecast.",
+    "intent": "rainfall",
+    "location_name": "Chennai",
+    "data_sources": [
+      "Open-Meteo Meteorological WMO / ECMWF Feed"
+    ],
+    "created_at": "2026-09-27T15:07:14.405075+00:00",
+    "_id": "134"
+  },
+  {
+    "message_id": "dcdff2f7-2474-4a62-bdf8-a12dcf0608d1",
+    "conversation_id": "4eb4e155-f38e-4699-b645-48f66da055ae",
+    "user_id": null,
+    "role": "user",
+    "content": "Will it rain today in Chennai?",
+    "location_name": "Chennai",
+    "created_at": "2026-09-27T15:07:13.013040+00:00",
+    "_id": "135"
+  },
+  {
+    "message_id": "e9ac815a-93d4-4280-8953-bb42b950c460",
+    "conversation_id": "4eb4e155-f38e-4699-b645-48f66da055ae",
+    "user_id": null,
+    "role": "assistant",
+    "content": "Forecast for Chennai (Today). Precipitation Probability: 63%. Rain is Likely. Expected Precipitation: 0.7 mm. Sky Condition: Light drizzle. Temperature Range: Min 26.7\u00b0C / Max 35.1\u00b0C. Forecast Lead Source: Open-Meteo High-Resolution Multi-Model Forecast.",
+    "intent": "rainfall",
+    "location_name": "Chennai",
+    "data_sources": [
+      "Open-Meteo Meteorological WMO / ECMWF Feed"
+    ],
+    "created_at": "2026-09-27T15:07:13.013040+00:00",
+    "_id": "136"
+  },
+  {
+    "message_id": "47b864be-1d1a-4984-91bd-1951a22a58ef",
+    "conversation_id": "1e21a5fc-26d0-4739-94db-4c6cecbfca7c",
+    "user_id": null,
+    "role": "user",
+    "content": "Will it rain today near 9.42049,77.800373?",
+    "location_name": "Chennai",
+    "created_at": "2026-09-27T15:29:22.499772+00:00",
+    "_id": "137"
+  },
+  {
+    "message_id": "22294385-31aa-4294-ac43-46d77234dfa9",
+    "conversation_id": "1e21a5fc-26d0-4739-94db-4c6cecbfca7c",
+    "user_id": null,
+    "role": "assistant",
+    "content": "Forecast for Chennai (Today). Precipitation Probability: 63%. Rain is Likely. Expected Precipitation: 0.7 mm. Sky Condition: Light drizzle. Temperature Range: Min 26.7\u00b0C / Max 35.1\u00b0C. Forecast Lead Source: Open-Meteo High-Resolution Multi-Model Forecast.",
+    "intent": "rainfall",
+    "location_name": "Chennai",
+    "data_sources": [
+      "Open-Meteo Meteorological WMO / ECMWF Feed"
+    ],
+    "created_at": "2026-09-27T15:29:22.499772+00:00",
+    "_id": "138"
+  },
+  {
+    "message_id": "4b20e7b4-c42e-4b6e-8416-928b2920c14e",
+    "conversation_id": "79e604db-87b5-4021-a60b-704fbb64d282",
+    "user_id": null,
+    "role": "user",
+    "content": "Will it rain today near 9.42049,77.800373?",
+    "location_name": "Chennai",
+    "created_at": "2026-09-27T15:29:27.398873+00:00",
+    "_id": "139"
+  },
+  {
+    "message_id": "67614b4d-3440-4676-9297-7d0d52ee5d59",
+    "conversation_id": "79e604db-87b5-4021-a60b-704fbb64d282",
+    "user_id": null,
+    "role": "assistant",
+    "content": "Forecast for Chennai (Today). Precipitation Probability: 63%. Rain is Likely. Expected Precipitation: 0.7 mm. Sky Condition: Light drizzle. Temperature Range: Min 26.7\u00b0C / Max 35.1\u00b0C. Forecast Lead Source: Open-Meteo High-Resolution Multi-Model Forecast.",
+    "intent": "rainfall",
+    "location_name": "Chennai",
+    "data_sources": [
+      "Open-Meteo Meteorological WMO / ECMWF Feed"
+    ],
+    "created_at": "2026-09-27T15:29:27.398873+00:00",
+    "_id": "140"
+  },
+  {
+    "message_id": "22a5d3a1-2266-4ce7-9fc7-92d73fd5e616",
+    "conversation_id": "ea8f21a2-3e5f-482c-8dd2-0378ff20796b",
+    "user_id": null,
+    "role": "user",
+    "content": "Will it rain today near 9.42049,77.800373?",
+    "location_name": "Chennai",
+    "created_at": "2026-09-27T15:29:30.305942+00:00",
+    "_id": "141"
+  },
+  {
+    "message_id": "0bc8d648-0414-4233-9518-7db5a7de87e3",
+    "conversation_id": "ea8f21a2-3e5f-482c-8dd2-0378ff20796b",
+    "user_id": null,
+    "role": "assistant",
+    "content": "Forecast for Chennai (Today). Precipitation Probability: 63%. Rain is Likely. Expected Precipitation: 0.7 mm. Sky Condition: Light drizzle. Temperature Range: Min 26.7\u00b0C / Max 35.1\u00b0C. Forecast Lead Source: Open-Meteo High-Resolution Multi-Model Forecast.",
+    "intent": "rainfall",
+    "location_name": "Chennai",
+    "data_sources": [
+      "Open-Meteo Meteorological WMO / ECMWF Feed"
+    ],
+    "created_at": "2026-09-27T15:29:30.305942+00:00",
+    "_id": "142"
+  },
+  {
+    "message_id": "d34c56aa-f33d-4ed9-9210-0c354decbd29",
+    "conversation_id": "6b80ede1-1dbf-4a22-8811-03e81f83b95d",
+    "user_id": null,
+    "role": "user",
+    "content": "Will it rain today near 9.4412,77.7316?",
+    "location_name": "Chennai",
+    "created_at": "2026-09-27T15:46:22.072973+00:00",
+    "_id": "143"
+  },
+  {
+    "message_id": "7386dda7-2125-45a7-a953-224962bf0c06",
+    "conversation_id": "6b80ede1-1dbf-4a22-8811-03e81f83b95d",
+    "user_id": null,
+    "role": "assistant",
+    "content": "Forecast for Chennai (Today). Precipitation Probability: 63%. Rain is Likely. Expected Precipitation: 0.7 mm. Sky Condition: Light drizzle. Temperature Range: Min 26.7\u00b0C / Max 35.1\u00b0C. Forecast Lead Source: Open-Meteo High-Resolution Multi-Model Forecast.",
+    "intent": "rainfall",
+    "location_name": "Chennai",
+    "data_sources": [
+      "Open-Meteo Meteorological WMO / ECMWF Feed"
+    ],
+    "created_at": "2026-09-27T15:46:22.072973+00:00",
+    "_id": "144"
+  },
+  {
+    "message_id": "7dadbbd1-17f7-4105-a146-757e7be6a1a3",
+    "conversation_id": "a9df4221-1ada-4ebc-9a0f-68f97eec1092",
+    "user_id": null,
+    "role": "user",
+    "content": "What will be the weather in?",
+    "location_name": "Sivakasi",
+    "created_at": "2026-09-27T15:46:32.993001+00:00",
+    "_id": "145"
+  },
+  {
+    "message_id": "59792ab4-d419-4c7b-83b7-ec886d5ff322",
+    "conversation_id": "a9df4221-1ada-4ebc-9a0f-68f97eec1092",
+    "user_id": null,
+    "role": "assistant",
+    "content": "Current Weather for Sivakasi. Temperature: 30.9\u00b0C (Feels like: 34.0\u00b0C). Condition: Clear sky. Relative Humidity: 58%. Surface Wind: 11.1 km/h. Precipitation Probability: 15%. Atmospheric observation retrieved at 2026-09-27 21:15 via Open-Meteo Meteorological WMO / ECMWF Feed.",
+    "intent": "current_weather",
+    "location_name": "Sivakasi",
+    "data_sources": [
+      "Open-Meteo Meteorological WMO / ECMWF Feed"
+    ],
+    "created_at": "2026-09-27T15:46:32.993001+00:00",
+    "_id": "146"
+  },
+  {
+    "message_id": "3349633a-eabf-4804-a464-c13f04691b9f",
+    "conversation_id": "5361f771-fa1f-4ab5-84cb-8278e47b6852",
+    "user_id": null,
+    "role": "user",
+    "content": "What is the weather?",
+    "location_name": "Sivakasi",
+    "created_at": "2026-09-27T15:47:08.914696+00:00",
+    "_id": "147"
+  },
+  {
+    "message_id": "f4d40766-fd96-465d-8cc0-2e4711fc0036",
+    "conversation_id": "5361f771-fa1f-4ab5-84cb-8278e47b6852",
+    "user_id": null,
+    "role": "assistant",
+    "content": "Current Weather for Sivakasi. Temperature: 30.9\u00b0C (Feels like: 34.0\u00b0C). Condition: Clear sky. Relative Humidity: 58%. Surface Wind: 11.1 km/h. Precipitation Probability: 15%. Atmospheric observation retrieved at 2026-09-27 21:15 via Open-Meteo Meteorological WMO / ECMWF Feed.",
+    "intent": "current_weather",
+    "location_name": "Sivakasi",
+    "data_sources": [
+      "Open-Meteo Meteorological WMO / ECMWF Feed"
+    ],
+    "created_at": "2026-09-27T15:47:08.914696+00:00",
+    "_id": "148"
+  },
+  {
+    "message_id": "b82c4775-0b5d-432b-a605-f8401416a728",
+    "conversation_id": "dda6a52d-f6f4-4c67-9a2d-486a36f7dffe",
+    "user_id": null,
+    "role": "user",
+    "content": "Will it rain today near 9.4412,77.7316?",
+    "location_name": "Sivakasi",
+    "created_at": "2026-09-27T15:51:06.686526+00:00",
+    "_id": "149"
+  },
+  {
+    "message_id": "93160dd7-bd8b-4cab-a013-f22140544bcc",
+    "conversation_id": "dda6a52d-f6f4-4c67-9a2d-486a36f7dffe",
+    "user_id": null,
+    "role": "assistant",
+    "content": "Sivakasi - Today \u0bb5\u0bbe\u0ba9\u0bbf\u0bb2\u0bc8 \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1. \u0ba8\u0bbf\u0bb2\u0bc8: Slight rain showers. \u0bae\u0bb4\u0bc8 \u0b9a\u0bbe\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b95\u0bcd\u0b95\u0bc2\u0bb1\u0bc1: 94% (\u0b95\u0ba9\u0bae\u0bb4\u0bc8\u0b95\u0bcd\u0b95\u0bc1 \u0b85\u0ba4\u0bbf\u0b95 \u0bb5\u0bbe\u0baf\u0bcd\u0baa\u0bcd\u0baa\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1). \u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0baa\u0bbe\u0bb0\u0bcd\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0bae\u0bcd \u0bae\u0bb4\u0bc8 \u0b85\u0bb3\u0bb5\u0bc1: 4.2 \u0bae\u0bbf.\u0bae\u0bc0. \u0b85\u0ba4\u0bbf\u0b95\u0baa\u0b9f\u0bcd\u0b9a \u0bb5\u0bc6\u0baa\u0bcd\u0baa\u0ba8\u0bbf\u0bb2\u0bc8: 36.9\u00b0C, \u0b95\u0bc1\u0bb1\u0bc8\u0ba8\u0bcd\u0ba4\u0baa\u0b9f\u0bcd\u0b9a\u0bae\u0bcd: 27.7\u00b0C. \u0b86\u0ba4\u0bbe\u0bb0\u0bae\u0bcd: Open-Meteo High-Resolution Multi-Model Forecast.",
+    "intent": "rainfall",
+    "location_name": "Sivakasi",
+    "data_sources": [
+      "Open-Meteo Meteorological WMO / ECMWF Feed"
+    ],
+    "created_at": "2026-09-27T15:51:06.686526+00:00",
+    "_id": "150"
+  },
+  {
+    "message_id": "354c6b7b-fc34-410a-9959-81fa911f3d4d",
+    "conversation_id": "12dcbce4-5479-44e3-a205-4502a81787d2",
+    "user_id": null,
+    "role": "user",
+    "content": "Will the wind be strong tomorrow?",
+    "location_name": "Sivakasi",
+    "created_at": "2026-09-27T15:52:12.557752+00:00",
+    "_id": "151"
+  },
+  {
+    "message_id": "2479fa76-6f58-4fc4-84e4-e01bac532503",
+    "conversation_id": "12dcbce4-5479-44e3-a205-4502a81787d2",
+    "user_id": null,
+    "role": "assistant",
+    "content": "Current Weather for Sivakasi. Temperature: 30.9\u00b0C (Feels like: 34.0\u00b0C). Condition: Clear sky. Relative Humidity: 58%. Surface Wind: 11.1 km/h. Precipitation Probability: 15%. Atmospheric observation retrieved at 2026-09-27 21:15 via Open-Meteo Meteorological WMO / ECMWF Feed.",
+    "intent": "wind",
+    "location_name": "Sivakasi",
+    "data_sources": [
+      "Open-Meteo Meteorological WMO / ECMWF Feed"
+    ],
+    "created_at": "2026-09-27T15:52:12.557752+00:00",
+    "_id": "152"
+  },
+  {
+    "message_id": "74987489-6766-4a55-8559-37f21156e4aa",
+    "conversation_id": "6fb0d2c9-9c21-4178-a68e-e307c3f7f2c4",
+    "user_id": null,
+    "role": "user",
+    "content": "Will the wind be strong tomorrow?",
+    "location_name": "Sivakasi",
+    "created_at": "2026-09-27T15:52:16.891661+00:00",
+    "_id": "153"
+  },
+  {
+    "message_id": "1101a837-b174-4107-8547-f220f2058d2a",
+    "conversation_id": "6fb0d2c9-9c21-4178-a68e-e307c3f7f2c4",
+    "user_id": null,
+    "role": "assistant",
+    "content": "Current Weather for Sivakasi. Temperature: 30.9\u00b0C (Feels like: 34.0\u00b0C). Condition: Clear sky. Relative Humidity: 58%. Surface Wind: 11.1 km/h. Precipitation Probability: 15%. Atmospheric observation retrieved at 2026-09-27 21:15 via Open-Meteo Meteorological WMO / ECMWF Feed.",
+    "intent": "wind",
+    "location_name": "Sivakasi",
+    "data_sources": [
+      "Open-Meteo Meteorological WMO / ECMWF Feed"
+    ],
+    "created_at": "2026-09-27T15:52:16.891661+00:00",
+    "_id": "154"
+  },
+  {
+    "message_id": "995f6d3f-f506-4af7-994a-3e30a67ef638",
+    "conversation_id": "50516194-5144-4717-9756-7bfd53d9f096",
+    "user_id": null,
+    "role": "user",
+    "content": "Will the wind be strong tomorrow?",
+    "location_name": "Sivakasi",
+    "created_at": "2026-09-27T15:54:42.168994+00:00",
+    "_id": "155"
+  },
+  {
+    "message_id": "f83df109-0825-4cad-9e65-0a9454b9200a",
+    "conversation_id": "50516194-5144-4717-9756-7bfd53d9f096",
+    "user_id": null,
+    "role": "assistant",
+    "content": "Current Weather for Sivakasi. Temperature: 30.9\u00b0C (Feels like: 34.0\u00b0C). Condition: Clear sky. Relative Humidity: 58%. Surface Wind: 11.1 km/h. Precipitation Probability: 15%. Atmospheric observation retrieved at 2026-09-27 21:15 via Open-Meteo Meteorological WMO / ECMWF Feed.",
+    "intent": "wind",
+    "location_name": "Sivakasi",
+    "data_sources": [
+      "Open-Meteo Meteorological WMO / ECMWF Feed"
+    ],
+    "created_at": "2026-09-27T15:54:42.168994+00:00",
+    "_id": "156"
+  },
+  {
+    "message_id": "eb48d1c3-aa07-4767-971c-f68ba9de3a02",
+    "conversation_id": "ccdb0375-3ede-4206-928c-3a57d52c9406",
+    "user_id": null,
+    "role": "user",
+    "content": "What is the weather?",
+    "location_name": "Sivakasi",
+    "created_at": "2026-09-27T15:55:33.309974+00:00",
+    "_id": "157"
+  },
+  {
+    "message_id": "95f73bdf-58f2-4ec6-820e-fdcadfcd5019",
+    "conversation_id": "ccdb0375-3ede-4206-928c-3a57d52c9406",
+    "user_id": null,
+    "role": "assistant",
+    "content": "Current Weather for Sivakasi. Temperature: 30.9\u00b0C (Feels like: 34.0\u00b0C). Condition: Clear sky. Relative Humidity: 58%. Surface Wind: 11.1 km/h. Precipitation Probability: 15%. Atmospheric observation retrieved at 2026-09-27 21:15 via Open-Meteo Meteorological WMO / ECMWF Feed.",
+    "intent": "current_weather",
+    "location_name": "Sivakasi",
+    "data_sources": [
+      "Open-Meteo Meteorological WMO / ECMWF Feed"
+    ],
+    "created_at": "2026-09-27T15:55:33.309974+00:00",
+    "_id": "158"
+  },
+  {
+    "message_id": "b1d22950-a429-4912-b8be-784d45117422",
+    "conversation_id": "fd214caa-212b-49de-be65-4ecd0f4f8ed5",
+    "user_id": null,
+    "role": "user",
+    "content": "Will it rain today near 9.4412,77.7316?",
+    "location_name": "Sivakasi",
+    "created_at": "2026-09-27T16:13:42.410715+00:00",
+    "_id": "159"
+  },
+  {
+    "message_id": "cc09e15e-1541-4b05-a6e2-be6e49d739b2",
+    "conversation_id": "fd214caa-212b-49de-be65-4ecd0f4f8ed5",
+    "user_id": null,
+    "role": "assistant",
+    "content": "Forecast for Sivakasi (Today). Precipitation Probability: 94%. Rain is Likely. Expected Precipitation: 4.2 mm. Sky Condition: Slight rain showers. Temperature Range: Min 27.7\u00b0C / Max 36.9\u00b0C. Forecast Lead Source: Open-Meteo High-Resolution Multi-Model Forecast.",
+    "intent": "rainfall",
+    "location_name": "Sivakasi",
+    "data_sources": [
+      "Open-Meteo Meteorological WMO / ECMWF Feed"
+    ],
+    "created_at": "2026-09-27T16:13:42.410715+00:00",
+    "_id": "160"
+  },
+  {
+    "message_id": "2c99ad59-c6c9-449a-ab02-779c0d307708",
+    "conversation_id": "b1981838-eab9-473a-a82b-4fd89441b667",
+    "user_id": null,
+    "role": "user",
+    "content": "Will it rain today near 9.4412,77.7316?",
+    "location_name": "Sivakasi",
+    "created_at": "2026-09-27T16:14:33.180789+00:00",
+    "_id": "161"
+  },
+  {
+    "message_id": "8260f112-d515-4727-83d0-25e141ebf119",
+    "conversation_id": "b1981838-eab9-473a-a82b-4fd89441b667",
+    "user_id": null,
+    "role": "assistant",
+    "content": "Sivakasi - Today \u0bb5\u0bbe\u0ba9\u0bbf\u0bb2\u0bc8 \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1. \u0ba8\u0bbf\u0bb2\u0bc8: Slight rain showers. \u0bae\u0bb4\u0bc8 \u0b9a\u0bbe\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b95\u0bcd\u0b95\u0bc2\u0bb1\u0bc1: 94% (\u0b95\u0ba9\u0bae\u0bb4\u0bc8\u0b95\u0bcd\u0b95\u0bc1 \u0b85\u0ba4\u0bbf\u0b95 \u0bb5\u0bbe\u0baf\u0bcd\u0baa\u0bcd\u0baa\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1). \u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0baa\u0bbe\u0bb0\u0bcd\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0bae\u0bcd \u0bae\u0bb4\u0bc8 \u0b85\u0bb3\u0bb5\u0bc1: 4.2 \u0bae\u0bbf.\u0bae\u0bc0. \u0b85\u0ba4\u0bbf\u0b95\u0baa\u0b9f\u0bcd\u0b9a \u0bb5\u0bc6\u0baa\u0bcd\u0baa\u0ba8\u0bbf\u0bb2\u0bc8: 36.9\u00b0C, \u0b95\u0bc1\u0bb1\u0bc8\u0ba8\u0bcd\u0ba4\u0baa\u0b9f\u0bcd\u0b9a\u0bae\u0bcd: 27.7\u00b0C. \u0b86\u0ba4\u0bbe\u0bb0\u0bae\u0bcd: Open-Meteo High-Resolution Multi-Model Forecast.",
+    "intent": "rainfall",
+    "location_name": "Sivakasi",
+    "data_sources": [
+      "Open-Meteo Meteorological WMO / ECMWF Feed"
+    ],
+    "created_at": "2026-09-27T16:14:33.180789+00:00",
+    "_id": "162"
+  },
+  {
+    "message_id": "19482ef4-d3f0-4f80-b123-c79e95a03476",
+    "conversation_id": "b1788ea3-6161-41d5-b534-ccc411b15551",
+    "user_id": null,
+    "role": "user",
+    "content": "will it rain in my area today",
+    "location_name": "Sivakasi",
+    "created_at": "2026-09-27T16:22:18.441731+00:00",
+    "_id": "163"
+  },
+  {
+    "message_id": "23c866e4-f8e1-4e8b-a7fd-719aba94fdbf",
+    "conversation_id": "b1788ea3-6161-41d5-b534-ccc411b15551",
+    "user_id": null,
+    "role": "assistant",
+    "content": "Forecast for Sivakasi (Today). Precipitation Probability: 94%. Rain is Likely. Expected Precipitation: 4.2 mm. Sky Condition: Slight rain showers. Temperature Range: Min 27.7\u00b0C / Max 36.9\u00b0C. Forecast Lead Source: Open-Meteo High-Resolution Multi-Model Forecast.",
+    "intent": "rainfall",
+    "location_name": "Sivakasi",
+    "data_sources": [
+      "Open-Meteo Meteorological WMO / ECMWF Feed"
+    ],
+    "created_at": "2026-09-27T16:22:18.441731+00:00",
+    "_id": "164"
+  },
+  {
+    "message_id": "11b33142-5f21-46db-a27b-dd366908911f",
+    "conversation_id": "20fc67f6-7402-45e0-a7af-f786995fcbaf",
+    "user_id": null,
+    "role": "user",
+    "content": "will it rain in my area today",
+    "location_name": "Sivakasi",
+    "created_at": "2026-09-27T16:22:22.205312+00:00",
+    "_id": "165"
+  },
+  {
+    "message_id": "86f7f0ff-794c-4647-8007-e69afb1052af",
+    "conversation_id": "20fc67f6-7402-45e0-a7af-f786995fcbaf",
+    "user_id": null,
+    "role": "assistant",
+    "content": "Forecast for Sivakasi (Today). Precipitation Probability: 94%. Rain is Likely. Expected Precipitation: 4.2 mm. Sky Condition: Slight rain showers. Temperature Range: Min 27.7\u00b0C / Max 36.9\u00b0C. Forecast Lead Source: Open-Meteo High-Resolution Multi-Model Forecast.",
+    "intent": "rainfall",
+    "location_name": "Sivakasi",
+    "data_sources": [
+      "Open-Meteo Meteorological WMO / ECMWF Feed"
+    ],
+    "created_at": "2026-09-27T16:22:22.205312+00:00",
+    "_id": "166"
+  },
+  {
+    "message_id": "db205d5a-04c0-42ad-8d02-601d9fbc82a0",
+    "conversation_id": "09931565-40d5-4cf1-af46-3c0f8af1d2c7",
+    "user_id": null,
+    "role": "user",
+    "content": "will it rain in my area tomorrow ",
+    "location_name": "Sivakasi",
+    "created_at": "2026-09-27T16:24:56.919903+00:00",
+    "_id": "167"
+  },
+  {
+    "message_id": "d8dbbd66-15cf-450d-a22e-6b5d2cde73af",
+    "conversation_id": "09931565-40d5-4cf1-af46-3c0f8af1d2c7",
+    "user_id": null,
+    "role": "assistant",
+    "content": "Forecast for Sivakasi (Tomorrow). Precipitation Probability: 94%. Rain is Likely. Expected Precipitation: 4.2 mm. Sky Condition: Slight rain showers. Temperature Range: Min 27.7\u00b0C / Max 36.9\u00b0C. Forecast Lead Source: Open-Meteo High-Resolution Multi-Model Forecast.",
+    "intent": "forecast",
+    "location_name": "Sivakasi",
+    "data_sources": [
+      "Open-Meteo Meteorological WMO / ECMWF Feed"
+    ],
+    "created_at": "2026-09-27T16:24:56.919903+00:00",
+    "_id": "168"
+  },
+  {
+    "message_id": "a41292ab-613d-4f90-87cf-d2f00a04e311",
+    "conversation_id": "18164f1d-9cae-4b63-8bd1-3c59ca604eeb",
+    "user_id": null,
+    "role": "user",
+    "content": "will it rain in my area tomorrow ",
+    "location_name": "Sivakasi",
+    "created_at": "2026-09-27T16:25:43.336919+00:00",
+    "_id": "169"
+  },
+  {
+    "message_id": "ada0147d-d45d-4dfd-b9d8-e4aedd40a38d",
+    "conversation_id": "18164f1d-9cae-4b63-8bd1-3c59ca604eeb",
+    "user_id": null,
+    "role": "assistant",
+    "content": "Sivakasi - Tomorrow \u0bb5\u0bbe\u0ba9\u0bbf\u0bb2\u0bc8 \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1. \u0ba8\u0bbf\u0bb2\u0bc8: Slight rain showers. \u0bae\u0bb4\u0bc8 \u0b9a\u0bbe\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b95\u0bcd\u0b95\u0bc2\u0bb1\u0bc1: 94% (\u0b95\u0ba9\u0bae\u0bb4\u0bc8\u0b95\u0bcd\u0b95\u0bc1 \u0b85\u0ba4\u0bbf\u0b95 \u0bb5\u0bbe\u0baf\u0bcd\u0baa\u0bcd\u0baa\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1). \u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0baa\u0bbe\u0bb0\u0bcd\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0bae\u0bcd \u0bae\u0bb4\u0bc8 \u0b85\u0bb3\u0bb5\u0bc1: 4.2 \u0bae\u0bbf.\u0bae\u0bc0. \u0b85\u0ba4\u0bbf\u0b95\u0baa\u0b9f\u0bcd\u0b9a \u0bb5\u0bc6\u0baa\u0bcd\u0baa\u0ba8\u0bbf\u0bb2\u0bc8: 36.9\u00b0C, \u0b95\u0bc1\u0bb1\u0bc8\u0ba8\u0bcd\u0ba4\u0baa\u0b9f\u0bcd\u0b9a\u0bae\u0bcd: 27.7\u00b0C. \u0b86\u0ba4\u0bbe\u0bb0\u0bae\u0bcd: Open-Meteo High-Resolution Multi-Model Forecast.",
+    "intent": "forecast",
+    "location_name": "Sivakasi",
+    "data_sources": [
+      "Open-Meteo Meteorological WMO / ECMWF Feed"
+    ],
+    "created_at": "2026-09-27T16:25:43.336919+00:00",
+    "_id": "170"
+  },
+  {
+    "message_id": "4600c42f-fb73-4c28-91a0-b846ed63972f",
+    "conversation_id": "3e007257-a0cc-4a9b-a6ef-befa1854c83b",
+    "user_id": null,
+    "role": "user",
+    "content": "will it rain in my area tomorrow ",
+    "location_name": "Sivakasi",
+    "created_at": "2026-09-27T16:25:53.732278+00:00",
+    "_id": "171"
+  },
+  {
+    "message_id": "1cefbd49-9cb6-4ca6-8c31-72ffe10c4865",
+    "conversation_id": "3e007257-a0cc-4a9b-a6ef-befa1854c83b",
+    "user_id": null,
+    "role": "assistant",
+    "content": "Sivakasi - Tomorrow \u0bb5\u0bbe\u0ba9\u0bbf\u0bb2\u0bc8 \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1. \u0ba8\u0bbf\u0bb2\u0bc8: Slight rain showers. \u0bae\u0bb4\u0bc8 \u0b9a\u0bbe\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b95\u0bcd\u0b95\u0bc2\u0bb1\u0bc1: 94% (\u0b95\u0ba9\u0bae\u0bb4\u0bc8\u0b95\u0bcd\u0b95\u0bc1 \u0b85\u0ba4\u0bbf\u0b95 \u0bb5\u0bbe\u0baf\u0bcd\u0baa\u0bcd\u0baa\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1). \u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0baa\u0bbe\u0bb0\u0bcd\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0bae\u0bcd \u0bae\u0bb4\u0bc8 \u0b85\u0bb3\u0bb5\u0bc1: 4.2 \u0bae\u0bbf.\u0bae\u0bc0. \u0b85\u0ba4\u0bbf\u0b95\u0baa\u0b9f\u0bcd\u0b9a \u0bb5\u0bc6\u0baa\u0bcd\u0baa\u0ba8\u0bbf\u0bb2\u0bc8: 36.9\u00b0C, \u0b95\u0bc1\u0bb1\u0bc8\u0ba8\u0bcd\u0ba4\u0baa\u0b9f\u0bcd\u0b9a\u0bae\u0bcd: 27.7\u00b0C. \u0b86\u0ba4\u0bbe\u0bb0\u0bae\u0bcd: Open-Meteo High-Resolution Multi-Model Forecast.",
+    "intent": "forecast",
+    "location_name": "Sivakasi",
+    "data_sources": [
+      "Open-Meteo Meteorological WMO / ECMWF Feed"
+    ],
+    "created_at": "2026-09-27T16:25:53.732278+00:00",
+    "_id": "172"
+  },
+  {
+    "message_id": "660b9e83-94d9-417b-b0a5-2386812f7e61",
+    "conversation_id": "f4df5923-e6d2-414f-a88b-212165ca64cc",
+    "user_id": null,
+    "role": "user",
+    "content": "will it rain in my area tomorrow ",
+    "location_name": "Sivakasi",
+    "created_at": "2026-09-27T16:25:55.252862+00:00",
+    "_id": "173"
+  },
+  {
+    "message_id": "b90d5e28-23fa-4873-94e4-666d4fa0c05a",
+    "conversation_id": "f4df5923-e6d2-414f-a88b-212165ca64cc",
+    "user_id": null,
+    "role": "assistant",
+    "content": "Sivakasi - Tomorrow \u0bb5\u0bbe\u0ba9\u0bbf\u0bb2\u0bc8 \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1. \u0ba8\u0bbf\u0bb2\u0bc8: Slight rain showers. \u0bae\u0bb4\u0bc8 \u0b9a\u0bbe\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b95\u0bcd\u0b95\u0bc2\u0bb1\u0bc1: 94% (\u0b95\u0ba9\u0bae\u0bb4\u0bc8\u0b95\u0bcd\u0b95\u0bc1 \u0b85\u0ba4\u0bbf\u0b95 \u0bb5\u0bbe\u0baf\u0bcd\u0baa\u0bcd\u0baa\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1). \u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0baa\u0bbe\u0bb0\u0bcd\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0bae\u0bcd \u0bae\u0bb4\u0bc8 \u0b85\u0bb3\u0bb5\u0bc1: 4.2 \u0bae\u0bbf.\u0bae\u0bc0. \u0b85\u0ba4\u0bbf\u0b95\u0baa\u0b9f\u0bcd\u0b9a \u0bb5\u0bc6\u0baa\u0bcd\u0baa\u0ba8\u0bbf\u0bb2\u0bc8: 36.9\u00b0C, \u0b95\u0bc1\u0bb1\u0bc8\u0ba8\u0bcd\u0ba4\u0baa\u0b9f\u0bcd\u0b9a\u0bae\u0bcd: 27.7\u00b0C. \u0b86\u0ba4\u0bbe\u0bb0\u0bae\u0bcd: Open-Meteo High-Resolution Multi-Model Forecast.",
+    "intent": "forecast",
+    "location_name": "Sivakasi",
+    "data_sources": [
+      "Open-Meteo Meteorological WMO / ECMWF Feed"
+    ],
+    "created_at": "2026-09-27T16:25:55.252862+00:00",
+    "_id": "174"
+  },
+  {
+    "message_id": "2ff046e2-9ea6-4c4c-8f1b-d17a54bd70a6",
+    "conversation_id": "4be94df6-4a7a-429d-968b-b402358fd595",
+    "user_id": null,
+    "role": "user",
+    "content": "will it rain in my area tomorrow ",
+    "location_name": "Sivakasi",
+    "created_at": "2026-09-27T16:26:18.883607+00:00",
+    "_id": "175"
+  },
+  {
+    "message_id": "9cd897d0-be44-4fec-ac85-07b8769341c2",
+    "conversation_id": "4be94df6-4a7a-429d-968b-b402358fd595",
+    "user_id": null,
+    "role": "assistant",
+    "content": "Forecast for Sivakasi (Tomorrow). Precipitation Probability: 94%. Rain is Likely. Expected Precipitation: 4.2 mm. Sky Condition: Slight rain showers. Temperature Range: Min 27.7\u00b0C / Max 36.9\u00b0C. Forecast Lead Source: Open-Meteo High-Resolution Multi-Model Forecast.",
+    "intent": "forecast",
+    "location_name": "Sivakasi",
+    "data_sources": [
+      "Open-Meteo Meteorological WMO / ECMWF Feed"
+    ],
+    "created_at": "2026-09-27T16:26:18.883607+00:00",
+    "_id": "176"
+  },
+  {
+    "message_id": "3a846853-e229-48f4-a16a-3220165d0dd4",
+    "conversation_id": "e5875473-e388-4584-985f-870176a59617",
+    "user_id": null,
+    "role": "user",
+    "content": "will it rain in my area tomorrow ",
+    "location_name": "Sivakasi",
+    "created_at": "2026-09-27T16:26:20.068782+00:00",
+    "_id": "177"
+  },
+  {
+    "message_id": "91f0ee55-4ec3-4383-b277-84d83418f84c",
+    "conversation_id": "e5875473-e388-4584-985f-870176a59617",
+    "user_id": null,
+    "role": "assistant",
+    "content": "Forecast for Sivakasi (Tomorrow). Precipitation Probability: 94%. Rain is Likely. Expected Precipitation: 4.2 mm. Sky Condition: Slight rain showers. Temperature Range: Min 27.7\u00b0C / Max 36.9\u00b0C. Forecast Lead Source: Open-Meteo High-Resolution Multi-Model Forecast.",
+    "intent": "forecast",
+    "location_name": "Sivakasi",
+    "data_sources": [
+      "Open-Meteo Meteorological WMO / ECMWF Feed"
+    ],
+    "created_at": "2026-09-27T16:26:20.068782+00:00",
+    "_id": "178"
+  },
+  {
+    "message_id": "d3673b0c-14df-4d96-b11b-8f5dec316d62",
+    "conversation_id": "4b9a4924-f112-4463-aeb5-222dbd88c24e",
+    "user_id": null,
+    "role": "user",
+    "content": "will it rain in my area tomorrow ",
+    "location_name": "Sivakasi",
+    "created_at": "2026-09-27T16:26:28.780729+00:00",
+    "_id": "179"
+  },
+  {
+    "message_id": "080694b7-fa1f-4f73-925d-81518fc47c9f",
+    "conversation_id": "4b9a4924-f112-4463-aeb5-222dbd88c24e",
+    "user_id": null,
+    "role": "assistant",
+    "content": "Forecast for Sivakasi (Tomorrow). Precipitation Probability: 94%. Rain is Likely. Expected Precipitation: 4.2 mm. Sky Condition: Slight rain showers. Temperature Range: Min 27.7\u00b0C / Max 36.9\u00b0C. Forecast Lead Source: Open-Meteo High-Resolution Multi-Model Forecast.",
+    "intent": "forecast",
+    "location_name": "Sivakasi",
+    "data_sources": [
+      "Open-Meteo Meteorological WMO / ECMWF Feed"
+    ],
+    "created_at": "2026-09-27T16:26:28.780729+00:00",
+    "_id": "180"
+  },
+  {
+    "message_id": "9b2aa7d7-f221-4c87-a645-5edaace339e3",
+    "conversation_id": "83e65956-15b4-4f58-9ec0-b0ea76f5014e",
+    "user_id": null,
+    "role": "user",
+    "content": "will it rain in my area tomorrow ",
+    "location_name": "Sivakasi",
+    "created_at": "2026-09-27T16:26:30.310230+00:00",
+    "_id": "181"
+  },
+  {
+    "message_id": "4f9a56cd-b858-429f-984f-d2ff03b6f351",
+    "conversation_id": "83e65956-15b4-4f58-9ec0-b0ea76f5014e",
+    "user_id": null,
+    "role": "assistant",
+    "content": "Forecast for Sivakasi (Tomorrow). Precipitation Probability: 94%. Rain is Likely. Expected Precipitation: 4.2 mm. Sky Condition: Slight rain showers. Temperature Range: Min 27.7\u00b0C / Max 36.9\u00b0C. Forecast Lead Source: Open-Meteo High-Resolution Multi-Model Forecast.",
+    "intent": "forecast",
+    "location_name": "Sivakasi",
+    "data_sources": [
+      "Open-Meteo Meteorological WMO / ECMWF Feed"
+    ],
+    "created_at": "2026-09-27T16:26:30.310230+00:00",
+    "_id": "182"
+  },
+  {
+    "message_id": "ca108385-5d55-46fe-931b-9cb69d6c17fc",
+    "conversation_id": "89a99d17-d0d1-4d0f-911e-79ce78e22d71",
+    "user_id": null,
+    "role": "user",
+    "content": "will it rain in my area tomorrow ",
+    "location_name": "Sivakasi",
+    "created_at": "2026-09-27T16:26:32.055364+00:00",
+    "_id": "183"
+  },
+  {
+    "message_id": "68641444-9f7e-415c-b27f-bfa8491a871c",
+    "conversation_id": "89a99d17-d0d1-4d0f-911e-79ce78e22d71",
+    "user_id": null,
+    "role": "assistant",
+    "content": "Forecast for Sivakasi (Tomorrow). Precipitation Probability: 94%. Rain is Likely. Expected Precipitation: 4.2 mm. Sky Condition: Slight rain showers. Temperature Range: Min 27.7\u00b0C / Max 36.9\u00b0C. Forecast Lead Source: Open-Meteo High-Resolution Multi-Model Forecast.",
+    "intent": "forecast",
+    "location_name": "Sivakasi",
+    "data_sources": [
+      "Open-Meteo Meteorological WMO / ECMWF Feed"
+    ],
+    "created_at": "2026-09-27T16:26:32.055364+00:00",
+    "_id": "184"
+  },
+  {
+    "message_id": "e63edf46-cb11-4a0e-a818-fb9f2ef8be75",
+    "conversation_id": "4c9e31df-c033-4d9e-99b6-f190376667a2",
+    "user_id": null,
+    "role": "user",
+    "content": "Will it rain today?",
+    "location_name": "Sivakasi",
+    "created_at": "2026-09-29T01:54:49.169864+00:00",
+    "_id": "185"
+  },
+  {
+    "message_id": "e3ed2112-4057-4903-b3c9-7ced48682dcd",
+    "conversation_id": "4c9e31df-c033-4d9e-99b6-f190376667a2",
+    "user_id": null,
+    "role": "assistant",
+    "content": "Yes. Sivakasi is likely to get rain on today. The rain probability is 91%, with about 2.8 mm expected. Sky conditions are Slight rain showers.",
+    "intent": "rainfall",
+    "location_name": "Sivakasi",
+    "data_sources": [
+      "Open-Meteo Meteorological WMO / ECMWF Feed"
+    ],
+    "created_at": "2026-09-29T01:54:49.169864+00:00",
+    "_id": "186"
+  },
+  {
+    "message_id": "77411a5c-3bf0-40cf-998e-e875082cc17e",
+    "conversation_id": "078be296-4fe5-4d1e-b7df-86ac158483a5",
+    "user_id": null,
+    "role": "user",
+    "content": "Will it rain today?",
+    "location_name": "Sivakasi",
+    "created_at": "2026-09-29T01:54:52.153588+00:00",
+    "_id": "187"
+  },
+  {
+    "message_id": "19c9b970-17af-43bc-9105-cb676cf8b500",
+    "conversation_id": "078be296-4fe5-4d1e-b7df-86ac158483a5",
+    "user_id": null,
+    "role": "assistant",
+    "content": "Yes. Sivakasi is likely to get rain on today. The rain probability is 91%, with about 2.8 mm expected. Sky conditions are Slight rain showers.",
+    "intent": "rainfall",
+    "location_name": "Sivakasi",
+    "data_sources": [
+      "Open-Meteo Meteorological WMO / ECMWF Feed"
+    ],
+    "created_at": "2026-09-29T01:54:52.153588+00:00",
+    "_id": "188"
+  }
+]
